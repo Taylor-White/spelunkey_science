@@ -12,7 +12,7 @@ function add_outfit(loc)
 	outfit_list[nextup] = define_texture(texture_def)
 end
 
-for i=0,189 do
+for i=0,190 do
     add_outfit(tostring(i) .. ".png")
 end
 
