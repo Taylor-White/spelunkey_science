@@ -1,0 +1,26 @@
+{
+    "author": "garebear",
+    "name": "Clean Udjat Wall",
+    "description": "Adds GIR to Udjat Wall",
+    "version": "1.0",
+    "image_map": {
+        "udjat-wall-heads.png": {
+            "Data/Textures/deco_cave.png": [
+                {
+                    "from": [
+                        0,
+                        0,
+                        512,
+                        512
+                    ],
+                    "to": [
+                        1024,
+                        1024,
+                        1536,
+                        1536
+                    ]
+                }
+            ]
+        }
+    }
+}
