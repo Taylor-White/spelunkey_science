@@ -66,7 +66,7 @@
 0x4730d4aa: Instant Restart
 0x27407cc8: Options
 0x0be8d18c: Main Menu
-0x0d9baa78: Exit Game
+0x0d9baa78: I'd rather flex my muscles
 0x811c092d: Are you sure you want to restart the tutorial?
 0xe62d4a42: Are you sure you want to end the adventure? All unsaved progress will be lost.
 0xe45e68bc: Are you sure you want to end the match?
@@ -85,12 +85,12 @@
 0xfe203cc2: Options
 0x34906f28: Leaderboards
 0x8ca20866: Player Profile
-0x9a19dfba: Quit Game
+0x9a19dfba: I'd rather flex my muscles
 ########################################
 ## PLAY OPTIONS                       ##
 ########################################
 0x7dafca94: Adventure
-0xc1401c2d: Embark on the main quest. Go alone or with friends!
+0xc1401c2d: Can you find your lost piece?
 0xf66722ba: Seeded Run
 0x4e9d0a33: Do a run where the randomness is tied to a set seed.
 0xca0a155a: Play Adventure Mode to unlock Seeded Runs!
@@ -186,8 +186,8 @@
 0x60ad4ae3: Walk/Run (Hold)
 0x51b7bdbc: Movement Default
 0xe1d1cf5a: Toggle running or walking by default.
-0xd138f693: Walk
-0xa92df0e3: Run
+0xd138f693: Slow like not Sanic
+0xa92df0e3: Fast like Sanic
 0x8d95ee18: Right Stick
 0xb9886e89: Toggle the right stick for movement.
 0x8d95ee18: Right Stick
@@ -362,7 +362,7 @@
 ########################################
 ## CHARACTER SELECTION SCREEN         ##
 ########################################
-0x406f5a59: CHOOSE ADVENTURER
+0x406f5a59: CHOOSE CHARACTER
 0x311d1e28: Player %d
 0x8476e147: <SYS_ACCEPT/> Start
 0x32d818fb: Back <SYS_BACK/>
@@ -382,7 +382,7 @@
 0x8ed69864: <LOG_ROPE/> Quick Select
 0x939c4f37: <SYS_SPECIAL2/> Quick Select
 0x29f617c0: Press <LOG_START/> to access the Options Menu and change your control scheme.
-0xa0a8f1ca: The walls are shifting...
+0xa0a8f1ca: Can you find your lost piece?...
 ########################################
 ## ARENA                              ##
 ########################################
@@ -938,7 +938,7 @@
 0x885d7efb: The youngest of Yang's 12 sons, who are all named Yang. He loves turkeys.
 0xd6dd5c2c: MADAME TUSK
 0x69eb4d9f: The most famous resident of the caves, or at least she'd like to think so!
-0xaf96b1ba: WADDLER
+0xaf96b1ba: BOOMER
 0x3b006540: He runs an item storage and transportation business. Customers have complained of getting their items back sticky.
 0x9cfd144b: CAVEMAN SHOPKEEPER
 0xb41b13f8: An enterprising caveman trying to acquire more shiny things to show off to his friends.
@@ -1127,21 +1127,7 @@
 ########################################
 # "Aspirant" definition: a person who has ambitions to achieve something
 ########################################
-0xbb28ec3c: A %ls servant of %ls marked by the %ls shall open the door for the Aspirant.
-0xcc9382d8: cracked
-0xaa26a498: simple
-0x8031ce9c: smiling
-0x367f23bd: tall
-0xccbf9027: clay
-0x824ff23f: gold
-0x3dcee34a: jade
-0x0455277a: wood
-0xce1ffb09: onyx
-0x6ab24666: eye
-0x0e1cca61: ankh
-0x04624884: snake
-0x2f7ce9ba: vortex
-0x449c47c4: bat
+
 ########################################
 ## JOURNAL - STORY                    ##
 ########################################
@@ -1580,10 +1566,10 @@
 ### Co-op 1-1
 ########################################
 0x4b1e303f: Well we suck
-0x39eb2a3a: ef...
+0x39eb2a3a: get dead, kid
 ### Co-op 1-4 / 2-4 / 4-4
 ########################################
-0x37c595cd: we're bad
+0x37c595cd: That was pathetic!
 0x98c14b86: maybe we should learn how to play
 ### Co-op Area < 5
 ########################################
@@ -1692,7 +1678,7 @@
 0x27d5027f: Spectacles
 0x8b24f84d: Retard Gloves
 0x7f0c5cc4: Catcher's Mitt
-0xb41c7e0d: Spring Shoes
+0xb41c7e0d: Slam Jams
 0x165246dc: Spike Shoes
 0x7b90e133: Milk
 0x36fef8a5: Compass
@@ -1733,7 +1719,7 @@
 ########################################
 #### Kali
 ########################################
-0x7464b785: Kali accepts your sacrifice!
+0x7464b785: Knuckles accepts your sacrifice!
 0x2c02c811: You feel invigorated!
 0x16549024: She bestows a gift upon you!
 0x9e79abf9: She seems ecstatic with you.
@@ -1742,26 +1728,26 @@
 0x555a5250: She seems pleased with you.
 0x3e103a65: She seems angry with you.
 0xaa6e4ece: She seems very angry with you.
-0x4d4b92d7: You have angered Kali!
+0x4d4b92d7: You have angered Knuckles!
 0x36f02181: Yet she still seems ecstatic with you.
 0x3460dc3a: Yet she still seems happy with you.
 0xbb0f7ffd: Yet she still seems pleased with you.
-0x8e55cd84: Kali admires your warrior spirit.
+0x8e55cd84: Knuckles admires your warrior spirit.
 0x0646463c: She fashions a weapon for you!
 0x1d19860c: So you desire a companion? Here you go!
-0x6c33f75e: Kali enjoys a good mystery!
+0x6c33f75e: Knuckles enjoys a good mystery!
 ########################################
 #### General
 ########################################
 0x493b1bbf: The scepter fits, but nothing is happening!
 0x12124976: A terrible chill runs up your spine!
-0x9f81909a: You feel protected!
+0x9f81909a: Knock Knock it's Knuckles!
 0x068c0e59: Thanks for getting me out of there!
 ########################################
 #### Feelings
 ########################################
 0xa30f49ee: Your voice echoes in here...
-0x7764c18e: You hear the beating of drums...
+0x7764c18e: You hear Knuckles playing the drums...
 0xf1d63384: Welcome to the Black Market!
 0x79a111f1: A terrible chill runs up your spine...
 0xb32774e8: You hear sounds of metal clanking...
@@ -1799,7 +1785,7 @@
 0x03bad5f4: Stop, thief!
 0xfdec8f09: I can't believe you've done this!
 0x8059ee17: Cheater!
-0xfb24cb14: Wow, big spender! I'll remember you!
+0xfb24cb14: Wow, big spender! Unlike that Sonic person!
 # Buying an idol from the player:
 0xce60f7d4: I'm happy to take that off your hands!
 ########################################
@@ -1808,8 +1794,8 @@
 0xf908e0ad: Welcome, Reborn. I have wares for sale.
 0xa2a55cff: Ah, one of my brother's foolish followers!
 0xeaf08576: May you hold out against Chaos a little longer.
-0xb93c8769: Welcome to the Moon Challenge, Reborn.
-0x258ce17b: Welcome to the Star Challenge, Reborn.
+0xb93c8769: Welcome to the Moon Challenge, Knuckles
+0x258ce17b: Welcome to the Star Challenge, Knuckles
 0xf3ed89ab: A warning, Reborn... the Sun Challenge may cost you your life.
 0x1e2c4553: Begin Challenge
 0xa13e4a4d: Enter the door to begin the Challenge.
@@ -1827,7 +1813,7 @@
 0xab469848: You've made a regretful choice!
 0xc856d686: You must be a servant of Hundun!
 0xf55f4683: I humbly accept this in trade.
-0x2560631c: Reborn, you've done well to reach this place.
+0x2560631c: Sonic is up to no good.
 ########################################
 #### Caveman Shopkeeper
 ########################################
@@ -1841,24 +1827,24 @@
 #### Yang
 ########################################
 0x204e87fe: Have you heard of Sonic the Hedgehog?
-0x1f58ab93: Thank you!
+0x1f58ab93: I thought you died back in Zanzibar!
 0xa40307a1: Wow, thanks! Please help yourself to my treasure.
 0xe6208bee: I will avenge my feathered friends!
 0x8197b16b: Stop, thief!
 0xb87715cb: You villain!
-0x4c3b0656: Welcome to Yang's Pet Shop!
+0x4c3b0656: Welcome to the Knuckles emporium of ropes and animals!
 0x58ef4a4b: I'm so happy right now!
 0xcb2f235a: Come back with my turkey, you fiend!
 0xdd2b5c3c: You monster!
 0x5916176e: Ah yes, I'll buy that idol from you!
-0xaeb900d0: Careful friend... that's a one-way door!
+0xaeb900d0: Metal Gear shoots nukes?????
 0x55deae49: I'm just doing a little shopping!
 0x297ceb41: I didn't realize they'd be serving turkey here...
 ########################################
 #### Madame Tusk
 ########################################
-0x6e75ebf9: Hello, my darling! Are you feeling lucky tonight?
-0x98faa092: Sorry, my darling... you've completely cleaned us out!
+0x6e75ebf9: Knuckles!
+0x98faa092: Is Knuckles a global conspiracy
 0x19eda958: Thank you for the $%d! Let's see what the dice have in store for you!
 0x3d671c25: Ah, a roll of %d!
 0x703afd2b: Better luck next time, my darling.
@@ -1875,18 +1861,18 @@
 ########################################
 0x6bb95049: Come right in. Madame is expecting you.
 0x3e66db0b: Sorry, you're not on the list.
-0x9c29874e: Stay out!
+0x9c29874e: Go away! I hear you associate with Sonic!
 0x5bf5f1d0: Someone's trying to rob Madame!
 ########################################
 #### Storage Guy
 ########################################
-0xbeaa608b: wat wat
+0xbeaa608b: I'll carry your items to the next spot.  Uphill both ways. In the snow
 0x96976465: What do you think you're doing, buster!
-0x6e092e31: This is as far as I go. I hope I helped you on your journey.
+0x6e092e31: I wish I was red like Knuckles.
 ########################################
 #### Sisters
 ########################################
-0x45583667: Thanks! I can't believe I got stuck in here.
+0x45583667: I don't chuckle. Do you?
 0x6a00d1b1: Here's a little something to help you out!
 0xf1b118a1: I don't have a good feeling about that door.
 0xf37af109: Brrr! I wish I brought a jacket!
@@ -1895,15 +1881,15 @@
 #### Old Hunter
 ########################################
 0xa5393875: Have you heard of Knuckles the Enchilada?
-0x65023224: I've been hunting this fiend a long time!
+0x65023224: Die monster! You don't belong in this world
 0x96335e0f: It's not looking good for me. Take this.
 0xb152cabc: Ha! A pair of unfortunate souls. Take this!
 0x0a9b5830: At least she removed my curse...
-0xf4763f25: I sense danger beyond that door.
+0xf4763f25: I heard Sonic broke into a bank.
 ########################################
 #### Thief
 ########################################
-0x2c63504d: You're good... but are you good enough to steal from Madame Tusk?
+0x2c63504d: I don't chuckle
 0xe4814ee8: Big brother! I never thought I'd catch you thieving...
 0x4a0ab729: Too bad. I got here first.
 0x8c95a7a0: I'm impressed! Meet me at the Palace of Pleasure if you really want to get rich...
@@ -1913,7 +1899,7 @@
 ########################################
 #### Servant of Hundun
 ########################################
-0x155a5292: You seem to enjoy Chaos!
+0x155a5292: You seem to enjoy Chaos! Just like Sonic the hedgehog!
 0xd599b0b2: Ah, so you truly love Chaos! Just like me!
 ########################################
 #### Terra
@@ -1968,21 +1954,21 @@
 ## BASE CAMP SHORTCUTS                ##
 ########################################
 0xbab72d60: Shortcut Station: Coming Soon! -Mama Tunnel
-0xe634b959: Shortcut to Area 1-4
-0xd756f83b: Shortcut to Area 3
-0x537565ee: Shortcut to Area 5
+0xe634b959: zzz I don't chuckle....
+0xd756f83b: Pot of Greed!!!
+0x537565ee: wahhhhhhhhhhhhh
 0x12645577: New shortcut coming soon! -Mama Tunnel
 ########################################
 ## BASE CAMP DIALOGS                  ##
 ########################################
-0xffc11bca: They're sleeping soundly.
+0xffc11bca: They're sleeping... lazy
 0x137fef5a: Congratulations!
 0x939ba6a2: I heard you made progress on your last run!
 ########################################
 #### Complaints
 ########################################
-0x42fbd6a3: Hey!
-0xca0f2a82: WHOA!
+0x42fbd6a3: Remember to follow itsmadness at twitch.tv/itsmadness!
+0xca0f2a82: Gripes!
 0x05a7c565: Gripes!
 ########################################
 #### Ana basic dialogue
@@ -2107,9 +2093,9 @@
 ########################################
 #### Mama Tunnel basic dialogue
 ########################################
-0xf660fd20: I hope the shortcuts are useful, %ls!
-0xb0b305e6: Shoot, I think my shovel's edges are starting to get dull...
-0x70d36869: Keep an eye on Margaret for me, won't you?
+0xf660fd20: %ls! Did you hear what Sonic did??
+0xb0b305e6: The Earth is shaped like an egg
+0x70d36869: Sonic is mean :(
 ########################################
 #### Ana to others
 ########################################
@@ -2248,8 +2234,8 @@
 ########################################
 #### Mama Tunnel to others
 ########################################
-0x09d84fd8: Manny, you look like you wish you had a shovel in your hand haha!
-0x094ae435: If you need help, just let Mama know, okay?!
+0x09d84fd8: haha!
+0x094ae435: egg!
 ########################################
 #### Enthusiastic personality generic dialogue
 ########################################
@@ -2382,14 +2368,14 @@
 0x467d71f2: Jimbo
 0xe8fa2f3d: Kinni
 0xa1926a93: Lou
-0x95293801: Micky
-0x7bb85aef: Nacho
-0x05bf4315: Omar
-0x5b11fe53: Pancho
-0xaafea7d9: Quincy
-0x800cd4e9: Ron
-0xb09dcf02: Sparky
-0xa79c425b: Tarn
+0x95293801: Jeff
+0x7bb85aef: Jeff
+0x05bf4315: Jeff
+0x5b11fe53: Jeff
+0xaafea7d9: Jeff
+0x800cd4e9: Jeff
+0xb09dcf02: Jeff
+0xa79c425b: Jeff
 0x4fe302fe: Ulf
 0x9b358f60: Vern
 0x7357e408: Wang
@@ -2400,32 +2386,32 @@
 ########################################
 #### Hired hands' names
 ########################################
-0x446580c0: Atlas
-0xe5ed5157: Barca
-0x4c703494: Clovis
+0x446580c0: Derp
+0xe5ed5157: Pile of trash
+0x4c703494: Pile of garbage
 0x5b0ce6bf: Dunder
-0x001754b3: Eirik
+0x001754b3: Solid Snake
 0xe4322609: Fink
 0x1ea9ebe5: Grom
-0x5cf1f651: Ham
+0x5cf1f651: Pile of trash
 0x7d4c5e10: Ivan
-0x2d8be119: Javi
-0x24f559ee: Kevin
+0x2d8be119: Pile of garbage
+0x24f559ee: Pile of garbage
 0x238b2497: Lurch
-0x33cd08cd: Manfred
+0x33cd08cd: Pile of trash
 0xbdefb4fa: Nurdle
 0x92285284: Onyx
-0xfaf9a5c0: Pork
-0x467f5248: Quincy
-0x85ad6560: Raster
-0x9db56222: Steve
-0x02b563be: Thundar
-0x0af1e7d3: Ug
-0x5d4f0fe9: Voxel
-0x5135ebfd: Wolf
-0x7d300e7a: Xorn
-0xc1ea8180: Yor
-0x5758a167: Zorgoth
+0xfaf9a5c0: Sanic
+0x467f5248: Sanic
+0x85ad6560: Knockles
+0x9db56222: Knockles
+0x02b563be: Jorf
+0x0af1e7d3: Metal Gear
+0x5d4f0fe9: Metal Gear
+0x5135ebfd: Metal Gear
+0x7d300e7a: Metal Gear
+0xc1ea8180: Metal Gear
+0x5758a167: Metal Gear
 ########################################
 #### Feats
 ########################################

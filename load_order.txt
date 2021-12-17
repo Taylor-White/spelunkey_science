@@ -1,0 +1,40 @@
+text_replace
+stupid_hired_hand
+Chickn
+Christmas Pack
+CompanionCubePushBlock_Volcano
+Ghost_Chirpy
+Heart_Star
+Item_Texture_Changes
+Montynubis
+Ronald
+Udjat Wall Gir
+amingus
+character_names
+city of wood
+coffins
+credits
+hulk_olmec
+moon_cave
+penguin_ufo
+pepper_dog
+quillback_w
+recolor
+sonic_lizard
+tiamat_upgrade
+title_screen
+wat-wat
+yoshi_ice_block
+Pets
+Critters
+Characters
+basecamp
+Backgrounds
+alt_music
+other_music
+Ushabits_sonic
+sunken
+Cinematic
+--Among_Us_Ushabtis
+--simp_hired_hand
+--Wardrobe
