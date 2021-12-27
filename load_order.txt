@@ -1,6 +1,5 @@
 text_replace
 stupid_hired_hand
-Chickn
 Christmas Pack
 CompanionCubePushBlock_Volcano
 Ghost_Chirpy
@@ -17,7 +16,6 @@ credits
 hulk_olmec
 moon_cave
 penguin_ufo
-pepper_dog
 quillback_w
 recolor
 sonic_lizard
@@ -33,8 +31,6 @@ Backgrounds
 alt_music
 other_music
 Ushabits_sonic
-sunken
-Cinematic
---Among_Us_Ushabtis
---simp_hired_hand
---Wardrobe
+--Cinematic
+.git
+Mounts
