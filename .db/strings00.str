@@ -913,7 +913,7 @@ An avid fan of music and video games. She's trying to find creative inspiration 
 Au
 A monk with bright golden skin. By challenging his mind and body, he's trying to find peace in a chaotic universe.
 Demi Von Diamonds
-The heiress to the Von Diamonds empire. She's lived a pampered life, but is eager to learn more about the world.
+Here I come, rougher than the rest of them, the best of them, tougher than leather. You can call me Knuckles, unlike Sonic I don't chuckle. I'd rather flex my muscles
 Pilot
 A strange little spaceman from a far away planet. He can often be found muttering about his UFO, the Campanella.
 Princess Airyn
@@ -1127,16 +1127,16 @@ The slightest pressure will cause its powerful steel jaws to snap shut, causing 
 ########################################
 # "Aspirant" definition: a person who has ambitions to achieve something
 ########################################
-%ls %ls that's holding %ls is the best nintendo character.
+%ls %ls that's holding %ls is the uh... you know the thing
 A simple
 A lucky
 An angelic
 A demonic
-red echidna
-two-tailed fox
-black hedgehog
-white bat
-blue hedgehog
+Knuckles the enchillada
+Tails the stupid fox
+Shadow the hedgehog
+Rogue the bat
+Sanic the fastest hedgehog and he has his own movie
 a red chaos emerald
 a blue chaos emerald
 a purple chaos emerald
@@ -1777,11 +1777,11 @@ You feel forgiven.
 ########################################
 #### Shopkeeper
 ########################################
-Welcome to %ls's %ls!
+%ls 
 Welcome, Your Highness! Do you see anything of interest?
 # The following line is meant to be slightly mocking:
 Oh, hello, Your Majesty! See anything you like, heh heh?
-I'm completely sold out!
+I don't know if I can trust Sonic anymore...
 General Store
 Clothing Shop
 Weapon Shop
@@ -1812,7 +1812,7 @@ Welcome to the Moon Challenge, Knuckles
 Welcome to the Star Challenge, Knuckles
 A warning, Reborn... the Sun Challenge may cost you your life.
 Begin Challenge
-Enter the door to begin the Challenge.
+Are you ready to go to space?
 %d...
 The challenge begins!
 Let there be light!
@@ -1820,9 +1820,9 @@ Survive!
 5 seconds remaining!
 You've won!
 Time's up! You lose...
-It was a worthy attempt, Reborn. See you next time.
+You are all terrible.
 Challenge completed! Please return to the entrance.
-Congratulations on completing the Challenge!
+Congratulations Knuckles! Keep knocking!
 Perhaps you'll find victory in the next life.
 You've made a regretful choice!
 You must be a servant of Hundun!
@@ -1894,11 +1894,11 @@ Great party, huh?
 ########################################
 #### Old Hunter
 ########################################
-Have you heard of Knuckles the Enchilada?
+I'm Shadow the Hedge-ball!
 Die monster! You don't belong in this world
-It's not looking good for me. Take this.
+I'm pure chaos!!!!
 Ha! A pair of unfortunate souls. Take this!
-At least she removed my curse...
+I'm a hedgehog...
 I heard Sonic broke into a bank.
 ########################################
 #### Thief
@@ -1956,7 +1956,7 @@ Aw, it doesn't look like you've got enough!
 ########################################
 #### Tiamat
 ########################################
-You didn't disappoint me... until next time...
+Now I'm freaking dead!
 ########################################
 #### Yama
 ########################################
@@ -2368,35 +2368,35 @@ Classic Guy
 ########################################
 #### Shopkeepers' names
 ########################################
-Ali
-Bob
-Idiot
-Darwin
-Jeff
-Earl
-Frank
-Garth
-Hakim
+I heard Sonic robbed a bank!
+Welcome to my dumb shop
+I thought you died back in Zanzibar!
+What am I doing with  my life...
+Look, fat
+Why are we here?
+Justic is for losers!
+uh oh!
+Never give up! Trust your instincts!
 Shopkeeper
-Ivan
-Jimbo
-Kinni
-Lou
-Jeff
-Jeff
-Jeff
-Jeff
-Jeff
-Jeff
-Jeff
-Jeff
-Ulf
-Vern
-Wang
-Willy
-Xander
-Yoshi
-Ziggy
+First of all, it's "roam" not "Rome"
+Why is Sonic blue?
+Hyper lasers are more powerful than twins
+Whoo-yea!!
+Remember to follow itsmadness at twitch.tv/itsmadness
+Remember to SMASH that follow and subscribe button at twitch.tv/itsmadness for a dumb icon thing
+Knuckles!
+Knock Knock!
+This place looks like a deserted mine of some kind
+Oh God, I'm alive!
+Remember to SMASH that follow and subscribe button at twitch.tv/itsmadness for a dumb icon thing
+Remember to SMASH that follow and subscribe button at twitch.tv/itsmadness for a dumb icon thing
+Remember to SMASH that follow and subscribe button at twitch.tv/itsmadness for a dumb icon thing
+Remember to SMASH that follow and subscribe button at twitch.tv/itsmadness for a dumb icon thing
+We'll just have to be careful, like always.  No use panicking about it.
+We'll just have to be careful, like always.  No use panicking about it.
+We'll just have to be careful, like always.  No use panicking about it.
+We'll just have to be careful, like always.  No use panicking about it.
+Oh God, I'm alive!
 ########################################
 #### Hired hands' names
 ########################################
@@ -2408,7 +2408,7 @@ Solid Snake
 Fink
 Grom
 Pile of trash
-Ivan
+Blop
 Pile of garbage
 Pile of garbage
 Lurch

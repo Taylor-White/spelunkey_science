@@ -1,3 +1,4 @@
+World_SunkenCity
 text_replace
 stupid_hired_hand
 Christmas Pack
@@ -31,6 +32,12 @@ Backgrounds
 alt_music
 other_music
 Ushabits_sonic
---Cinematic
-.git
 Mounts
+Hundun
+mr_krabs_enemy
+Misc
+old_hunter
+Sounds
+Extra Shortcuts
+Effects
+.git
