@@ -37,7 +37,8 @@ Hundun
 mr_krabs_enemy
 Misc
 old_hunter
-Sounds
 Extra Shortcuts
 Effects
+enemies
+Sounds
 .git

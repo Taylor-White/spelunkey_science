@@ -16,6 +16,8 @@ Annuler
 Réinitialiser
 Désactivé
 Activé
+OK
+Retry
 ########################################
 ## INTRO POEM                         ##
 ##   Three lines chosen randomly...   ##
@@ -158,6 +160,7 @@ Haut
 Normal
 Bas
 Surbalayage
+Resize the display area to fit your screen.
 AUDIO
 Volume des effets
 Définit le volume des effets sonores.
@@ -192,10 +195,15 @@ Joystick droit
 Utilisez le joystick droit pour vous déplacer.
 Stick droit
 Utilisez le stick droit pour vous déplacer.
+Stick analogique droit
+Utilisez le stick analogique droit pour vous déplacer.
 Vibration
 Définit le mode de vibration de la manette.
 Vibrations
 Définit le mode des vibrations de la manette.
+Vibration
+Définit le mode de vibration de la manette.
+Vibration
 <SYS_ACCEPT/> Changer la touche
 <SYS_ACCEPT/> Changer le bouton
 <SYS_ACCEPT/> Changer la touche
@@ -233,6 +241,9 @@ Téléchargez, fusionnez et envoyez votre progression.
 Code de synchronisation :
 Demande de code
 Synchronisation
+There was an error synchronizing progress with linked storage.
+There was an error fetching linked storage code.
+There was an error linking progress storage.
 #### Gameplay
 ########################################
 Type d'animal
@@ -2337,6 +2348,10 @@ Vous avez été invité(e) à une partie avec option Cross-Play. Voulez-vous vra
 Une erreur réseau est survenue
 Début dans %d
 Ce classement n'est pas disponible actuellement, veuillez revenir plus tard.
+Unable to start the daily challenge, please try again later.
+Warning
+This lobby is Cross-Play enabled.\nPlayers from other platforms may join or already be in the lobby.\nDo you want to continue?
+Do you want to make this lobby Cross-Play enabled?\nWarning: This will allow players from other platforms to join this lobby.
 ########################################
 #### Ending
 ########################################
@@ -2515,3 +2530,5 @@ Minor
 #### Others
 ########################################
 The demo has ended.\nThanks for playing!
+Insufficient space to save data. Continue without saving?
+There was an error initializing save data. The game will continue with save games disabled.

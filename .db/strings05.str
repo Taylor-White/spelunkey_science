@@ -16,6 +16,8 @@ Cancelar
 Resetear
 Desactivado
 Activado
+Aceptar
+Retry
 ########################################
 ## INTRO POEM                         ##
 ##   Three lines chosen randomly...   ##
@@ -158,6 +160,7 @@ Alto
 Normal
 Bajo
 Overscan
+Resize the display area to fit your screen.
 AUDIO
 Volumen de los Efectos
 Establece el volumen de los efectos de sonido.
@@ -192,10 +195,15 @@ Joystick derecho
 Usa el joystick derecho para moverte.
 Palanca derecha
 Usa la palanca derecha para moverte.
+Stick  derecho
+Usa el Stick derecho para moverte.
 Vibración
 Establece el modo de vibración del control.
 Vibración
 Establece el modo de vibración del mando.
+Vibración
+Establece el modo de vibración del control.
+Vibración
 <SYS_ACCEPT/> Cambiar Tecla
 <SYS_ACCEPT/> Cambiar Botón
 <SYS_ACCEPT/> Cambiar Botón
@@ -233,6 +241,9 @@ Descarga, fusiona y envía tu progreso.
 Código de Sincronización:
 Pidiendo Código
 Sincronizando
+There was an error synchronizing progress with linked storage.
+There was an error fetching linked storage code.
+There was an error linking progress storage.
 #### Gameplay
 ########################################
 Tipo de mascota
@@ -2337,6 +2348,10 @@ El juego al cual fuiste invitado tiene Cross-Play activado, ¿estás seguro de q
 Ha ocurrido un error de red
 Comenzando en %d
 Este mercador no está disponible actualmente, regresa más tarde.
+Unable to start the daily challenge, please try again later.
+Warning
+This lobby is Cross-Play enabled.\nPlayers from other platforms may join or already be in the lobby.\nDo you want to continue?
+Do you want to make this lobby Cross-Play enabled?\nWarning: This will allow players from other platforms to join this lobby.
 ########################################
 #### Ending
 ########################################
@@ -2515,3 +2530,5 @@ Minor
 #### Others
 ########################################
 The demo has ended.\nThanks for playing!
+Insufficient space to save data. Continue without saving?
+There was an error initializing save data. The game will continue with save games disabled.

@@ -16,6 +16,8 @@ Cancelar
 Resetear
 Desactivado
 Activado
+Aceptar
+Retry
 ########################################
 ## INTRO POEM                         ##
 ##   Three lines chosen randomly...   ##
@@ -158,6 +160,7 @@ Alto
 Normal
 Bajo
 Overscan
+Resize the display area to fit your screen.
 SONIDO
 Volumen de los efectos
 Ajusta el volumen de los efectos de sonido.
@@ -192,10 +195,15 @@ Joystick derecho
 Usa el joystick derecho para moverte.
 Palanca derecha
 Usa la palanca derecha para moverte.
+Stick  derecho
+Usa el Stick derecho para moverte.
 Vibración
 Ajusta el modo de vibración del mando.
 Vibración
 Ajusta el modo de vibración del mando.
+Vibración
+Ajusta el modo de vibración del mando.
+Vibración
 <SYS_ACCEPT/> Cambiar de tecla
 <SYS_ACCEPT/> Cambiar de botón
 <SYS_ACCEPT/> Cambiar de botón
@@ -233,6 +241,9 @@ Descarga, fusiona y envía tu progreso.
 Código de sincronización:
 Pidiendo código
 Sincronizando
+There was an error synchronizing progress with linked storage.
+There was an error fetching linked storage code.
+There was an error linking progress storage.
 #### Gameplay
 ########################################
 Tipo de mascota
@@ -2337,6 +2348,10 @@ La partida a la que te han invitado tiene activado Cross-Play. ¿Seguro que quie
 Se ha producido un error de red.
 Comenzamos en %d
 Esta clasificación no está disponible en estos momentos. Vuelve más tarde.
+Unable to start the daily challenge, please try again later.
+Warning
+This lobby is Cross-Play enabled.\nPlayers from other platforms may join or already be in the lobby.\nDo you want to continue?
+Do you want to make this lobby Cross-Play enabled?\nWarning: This will allow players from other platforms to join this lobby.
 ########################################
 #### Ending
 ########################################
@@ -2515,3 +2530,5 @@ Minor
 #### Others
 ########################################
 The demo has ended.\nThanks for playing!
+Insufficient space to save data. Continue without saving?
+There was an error initializing save data. The game will continue with save games disabled.
