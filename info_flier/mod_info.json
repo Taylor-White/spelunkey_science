@@ -1,0 +1,12 @@
+{
+	"image_map": {
+		"nut_item.png": {
+			"Data/Textures/items.png": [
+				{
+					"from": [0, 0, 128, 128],
+					"to": [1408, 640, 1536, 768]
+				}
+			]
+		}
+	}
+}
