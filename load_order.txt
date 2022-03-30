@@ -8,8 +8,6 @@ Ghost_Chirpy
 Heart_Star
 Hundun
 Item_Texture_Changes
-Misc
-Montynubis
 Mounts
 Pets
 Sounds
@@ -26,7 +24,6 @@ hulk_olmec
 info_flier
 lego-yoda-shopkeeper-death-sfx-1.0.0
 moon_cave
-mr_krabs_enemy
 old_hunter
 other_music
 quillback_w
