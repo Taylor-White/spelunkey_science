@@ -1,0 +1,165 @@
+\-size                                   2 4
+\-altar_room_chance                      0
+\-back_room_chance                       0
+\-back_room_hidden_door_cache_chance     0
+\-back_room_hidden_door_chance           0
+\-back_room_interconnection_chance       0
+\-background_chance                      0
+\-flagged_liquid_rooms                   0
+\-floor_bottom_spread_chance             0
+\-floor_side_spread_chance               0
+\-ground_background_chance               0
+\-idol_room_chance                       0
+\-machine_bigroom_chance                 0
+\-machine_rewardroom_chance              0
+\-machine_tallroom_chance                0
+\-machine_wideroom_chance                0
+\-max_liquid_particles                   0
+\-mount_chance                           0
+
+\?floor                            1
+\?empty                            0
+\?floor_hard                       X
+\?falling_platform                 !
+\?entrance                         "
+\?push_block                       #
+\?conveyorbelt_right               $
+\?platform                         %
+\?conveyorbelt_left                &
+\?ladder_plat                      '
+\?ladder                           (
+\?powder_keg                       )
+\?spring_trap                      *
+\?lava                             +
+\?slidingwall_switch               ,
+\?key                              -
+\?drill                            .
+\?udjat_socket                     2
+\?lavamander                       3
+\?spikes                           4
+\?locked_door                      5
+\?door2                            6
+\?exit                             7
+\?vlads_cape                       8
+\?autowalltorch                    9
+\?spikeball_trap                   ;
+\?udjat_eye                        <
+\?thorn_vine                       =
+\?entrance_nocrap                  :
+\?next                             >
+\?littorch                         ?
+\?bush_block                       @
+\?logical_platform                 A
+\?slidingwall_ceiling              B
+\?chain_ceiling                    C
+\?slidingwall                      D
+\?bone_block                       E
+\?critter_snail                    F
+\?construction_sign                G
+
+
+
+////////////////////////////////////////////////////////////////////////////////
+\.custom0_0   // volcano
+////////////////////////////////////////////////////////////////////////////////
+
+XX;;;;;X##
+XX00000X@&
+X@@@@@@@@X
+X900000900
+X900000900
+X9111119X0
+X=11111=XF
+XX11111XXE
+
+////////////////////////////////////////////////////////////////////////////////
+\.custom0_1   // volcano
+////////////////////////////////////////////////////////////////////////////////
+
+##XXXXXXXX
+&&XXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+
+////////////////////////////////////////////////////////////////////////////////
+\.custom1_0   // volcano
+////////////////////////////////////////////////////////////////////////////////
+
+XXXX<XX0#0
+-F?0!X#0%'
+!XX000#0X(
+0XX000#0X(
+0XX:00#00(
+0XXXXXXA0X
+0.0000X00X
+000020X00X
+
+////////////////////////////////////////////////////////////////////////////////
+\.custom1_1   // volcano
+////////////////////////////////////////////////////////////////////////////////
+
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+
+////////////////////////////////////////////////////////////////////////////////
+\.custom2_0   // volcano
+////////////////////////////////////////////////////////////////////////////////
+
+000000@0&X
+F00000@00X
+!00000@00X
+000000X00X
+000000X00X
+000000X00X
+++++++X0FX
+X11XXXX0!0
+
+////////////////////////////////////////////////////////////////////////////////
+\.custom2_1   // volcano
+////////////////////////////////////////////////////////////////////////////////
+
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+
+////////////////////////////////////////////////////////////////////////////////
+\.custom3_0   // volcano
+////////////////////////////////////////////////////////////////////////////////
+
+\!dual
+X11;G00000 XX0000000X
+;110!00000 XX9090000X
+0000000500 XX0800060X
+0700000000 XXXXXXXXXX
+0000000000 XXXXXXXXXX
+0+++00+++0 XXXXXXXXXX
+XXXXXXXXXX XXXXXXXXXX
+XXXXXXXXXX XXXXXXXXXX
+
+////////////////////////////////////////////////////////////////////////////////
+\.custom3_1   // volcano
+////////////////////////////////////////////////////////////////////////////////
+
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX

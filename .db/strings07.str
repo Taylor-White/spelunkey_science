@@ -1,0 +1,2534 @@
+# This is a comment! Anything after a # does not appear in the game!
+Sim
+Não
+<SYS_ACCEPT/>
+<SYS_BACK/>
+<LOG_BOMB/>
+<SYS_SPECIAL/>
+<SYS_SPECIAL2/>
+<SYS_SPECIAL3/>
+<SYS_LEFT/>
+<SYS_RIGHT/>
+<SYS_ACCEPT/> OK
+<LOG_ACCEPT/> Continuar
+Continuar
+Cancelar
+Reiniciar
+Desativado
+Ativado
+OK
+Retry
+########################################
+## INTRO POEM                         ##
+##   Three lines chosen randomly...   ##
+########################################
+# Line 1
+########################################
+Ainda tonta com a chegada,
+Coloco a foto desbotada no bolso,
+Deixo os medos de lado,
+Repasso o meu plano uma última vez,
+Com o coração agitado no peito,
+Com as memórias da Terra já sumindo,
+E completamente decidida,
+Sem certeza de estar pronta,
+A Sorte sorri para mim,
+########################################
+# Line 2
+########################################
+Eu me segurei firme na corda,
+E respirei profundamente,
+Peguei a minha tocha,
+Chamei o Monty,
+Dei uma última olhada nas estrelas,
+Pensei na Mamãe e no Papai,
+E sussurrei algo já esquecido,
+Eu fechei meus olhos,
+Agradeci meus ancestrais,
+########################################
+# Line 3
+########################################
+E desci pela escuridão.
+E me perguntei se um dia vou ver todos de novo.
+E senti um frio subindo das profundezas.
+E me aventurei no desconhecido.
+E me senti ansiosa pela aventura que está por vir.
+Eu jurei que vou voltar viva.
+E depois jurei que ouvi vozes lá embaixo.
+E foi assim que tudo começou.
+E senti uma onda de calma passando sobre mim.
+########################################
+## PAUSE MENU                         ##
+########################################
+PAUSADO
+Continuar Jogo
+Reiniciar Tutorial
+Terminar Aventura
+Terminar Combate
+Reinício Instantâneo
+Opções
+Menu Principal
+Sair do Jogo
+Tem certeza que quer reiniciar o tutorial?
+Tem certeza que quer terminar a aventura? Todo o progresso não salvo será perdido.
+Tem certeza que quer terminar o combate?
+Tem certeza que quer reiniciar? Todo o progresso não salvo será perdido.
+Tem certeza que quer sair para o Menu principal? Todo o progresso não salvo será perdido.
+Tem certeza que quer sair do jogo? Todo o progresso não salvo será perdido.
+Nível
+Dinheiro
+Tempo
+Pressione <SYS_ACCEPT/> para começar
+########################################
+## MAIN OPTIONS                       ##
+########################################
+Jogar
+Online
+Opções
+Rankings
+Perfil do Jogador
+Sair do Jogo
+########################################
+## PLAY OPTIONS                       ##
+########################################
+Aventura
+Embarque na missão principal. Sozinho ou com amigos!
+Partida com Semente
+Realize uma partida onde a aleatoriedade é sempre a mesma.
+Jogue o Modo Aventura para desbloquear as Partidas com Semente!
+Partidas com semente desbloqueadas!
+Arena
+Lute contra amigos ou bots na Arena mortal.
+########################################
+## ONLINE OPTIONS                     ##
+########################################
+Aventura Online
+Começa uma Aventura com amigos ou jogadores aleatórios.
+Desafio Diário
+Tente concluir o desafio diário de hoje. Você só tem uma chance!
+Você já tentou concluir o desafio de hoje. Tente de novo amanhã!
+Arena Personalizada
+Lute com amigos online usando as tuas próprias configurações.
+Convidar
+<SYS_ACCEPT/> Pronto
+<SYS_SPECIAL3/> Código
+<SYS_SPECIAL2/> Convidar                <SYS_SPECIAL3/> Código
+<SYS_SPECIAL/> Buscar
+Coloque o Código
+Seu Código:
+########################################
+## OPTIONS                            ##
+########################################
+Gráficos e Áudio
+Controles
+Jogabilidade
+HUD e Texto
+Idioma
+Cross-progresso
+Gerenciar Dados
+Créditos
+#### Shared values
+########################################
+Des.
+Lig.
+Pequeno
+Médio
+Grande
+<SYS_SPECIAL/> Redefinir para Padrão
+<SYS_ACCEPT/> Aplicar
+#### GFX and Audio options
+########################################
+GRÁFICOS
+Resolução
+Defina a resolução.
+Dimensionamento de Resolução
+Modifique a resolução interna do jogo
+Modo de Exibição
+Defina o modo de exibição.
+Tela Cheia
+Janela sem Bordas
+Janela
+Brilho
+Defina o brilho da tela.
+Resplendores Brilhantes
+Defina a intensidade dos efeitos do flash brilhantes.
+Ativados
+Desativados
+Efeitos Visuais
+Diminuir os efeitos visuais poderia melhorar o desempenho.
+Alto
+Normal
+Baixo
+Overscan
+Resize the display area to fit your screen.
+ÁUDIO
+Volume - SFX
+Defina o volume dos efeitos sonoros.
+Volume da Música
+Defina o volume da música.
+Volume Geral
+Defina o volume geral.
+#### Controls
+########################################
+Configuração do Teclado
+Configuração do Controle
+Configuração do Controle
+Jogador Atual
+Configuração dos controles do jogador atual.
+Jogador %d
+Cima
+Baixo
+Esquerda
+Direta
+Pular
+Atacar
+Bomba
+Corda
+Pausa
+Usar Porta/Comprar
+Andar/Correr (Segurar)
+Padrão de Movimento
+Alterne correr ou andar por padrão.
+Andar
+Correr
+Controle Direito
+Alterne o movimento para o controle direito.
+Botão Analógico da Direita
+Alterne o movimento para o botão analógico da direita.
+Direcional analógico direito
+Alterne o movimento para o direcional analógico direito.
+Vibração
+Defina o modo de vibração do controle.
+Vibração
+Defina o modo de vibração do controle.
+Vibração
+Defina o modo de vibração do controle.
+Vibração
+<SYS_ACCEPT/> Alterar Tecla
+<SYS_ACCEPT/> Alterar Botão
+<SYS_ACCEPT/> Alterar Botão
+<SYS_ACCEPT/> Alterar Botão
+<SYS_ACCEPT/> Alterar Botão
+Pressione o botão que quer usar para %ls
+Pressione o botão que quer usar para %ls
+Pressione o botão que quer usar para %ls
+Tecla já em uso! Se continuar, a tecla não será configurada para o jogador %d.
+Sem configuração de tecla para o jogador %d
+Jogador %d tem ações não configuradas. Tem certeza que quer sair?
+#### Online
+########################################
+ONLINE
+Cross-Play
+Ativa a opção de jogar com jogadores que estão usando outras plataformas.
+Atraso de Entrada
+Atrasa a entrada de controles no jogo para reduzir glitches visuais.
+Atraso de Saída
+Atrasa a exibição das ações de outros jogadores para reduzir glitches visuais.
+Pseudonimização
+Utiliza pseudônimos para jogadores de fontes de terceiros.
+#### Cross-Progress
+########################################
+Cross-progresso
+Ativa o progresso compartilhado com outras plataformas.
+Sincronização automática
+Sincroniza automaticamente o seu progresso com outros dispositivos.
+Solicitar código de sincronização
+Solicite um código para compartilhar seu progresso com outra plataforma.
+Introduzir código de sincronização
+Digite o código de outra plataforma para compartilhar o progresso.
+Sincronizar progresso
+Faça o download, upload ou inclua o seu progresso.
+Código de sincronização:
+Solicitando código
+Sincronizando
+There was an error synchronizing progress with linked storage.
+There was an error fetching linked storage code.
+There was an error linking progress storage.
+#### Gameplay
+########################################
+Estilo do Animal de Estimação
+Defina qual animal de estimação aparece em cada nível.
+Vibração da Tela
+Defina a vibração da tela.
+Des.
+Baixo
+Médio
+Alto
+Reinício Instantâneo
+Adicione a opção Reinício Instantâneo no Menu Pausa.
+Nenhum
+Confirmar
+Não Confirmar
+#### Display
+########################################
+HUD
+Visibilidade do HUD
+Defina a visibilidade do HUD.
+Ajuste Automático
+Opaco
+Transparente
+Invisível
+Tamanho do HUD
+Defina o tamanho do HUD.
+Cronômetro do Nível
+Defina a exibição do cronômetro do nível.
+Só Cronômetro do Nível
+Nível/Total
+Des.
+Detalhe do Cronômetro
+Defina o detalhamento do cronômetro do nível.
+Segundos
+Milissegundos
+Número do Nível
+Alterne para exibição do número do nível.
+Ícone de Comerciante Nervoso
+Alterne para exibir um ícone quando os comerciantes estão bravos.
+Prompts de Botão
+Escolha se mostrar ou não prompts de botão.
+Prompts de Botão
+Escolha se mostrar ou não prompts de botão.
+Prompts de Botão
+Escolha se mostrar ou não prompts de botão.
+Ícones de Botões
+Força os ícones dos botões para uma plataforma específica.
+Notificação de Façanhas
+Alterne se pop-ups de façanhas são exibidos ou não.
+DIÁLOGOS
+Tamanho do Diálogo
+Defina o tamanho dos diálogos.
+Duração
+Defina o tempo de exibição dos diálogos na tela.
+Bem Curto
+Curto
+Médio
+Longo
+Opacidade
+Ajusta a opacidade dos diálogos.
+Texto descritivo de teste\nEsse é o texto de subdescrição
+Sensações do Nível
+Alterne se as sensações do nível são exibidas.
+Texto de Diálogo
+Alterne para exibir o texto de diálogo.
+Texto - Kali
+Alterne para exibir as mensagens de Kali.
+Texto - Fantasma
+Alterne para exibir os avisos de fantasmas.
+<SYS_SPECIAL2/> Prévia do HUD
+<SYS_SPECIAL2/> Prévia dos Diálogos
+#### Language
+########################################
+Novo Idioma
+Defina o idioma.
+<SYS_ACCEPT/> Aplicar Idioma
+#### Data Management
+########################################
+Reiniciar Diário
+Resetar Atalhos
+Redefinir Personagens Desbloqueados
+Redefinir Perfil do Jogador
+Reiniciar Vitórias e Tempos
+Reiniciar Todos os Dados Salvos
+Isso irá resetar todas as entradas de diário, exceto para os personagens desbloqueados.
+Isso irá resetar todos os atalhos.
+Isso bloqueará todos os personagens desbloqueados e removerá suas entradas de diário.
+Isso resetará o perfil do jogador.
+Isso zera o tempo médio, o melhor tempo e as vitórias no perfil do jogador.
+Isso resetará todos os dados salvos.
+O Acampamento Base também pode ser afetado.
+Você tem certeza? Esta ação não pode ser desfeita.
+#### Credits
+########################################
+<SYS_ACCEPT/> Acelerar
+########################################
+#### LEADERBOARDS
+########################################
+Melhores Partidas
+Profundidade
+Melhores Tempos
+Normal
+Difícil
+Especial
+Melhores Partidas Diárias
+Classif.
+Jogador
+Nível
+Pont.
+Tempo
+Filtro
+Geral
+Amigos
+Cross-Play
+Quantidade de Jogadores
+<SYS_SPECIAL2/> Eu
+Ver replay
+SYS_ACCEPT/> Ver replay
+SYS_ACCEPT/> Menu de contexto
+########################################
+## ENTER SEED SCREEN                  ##
+########################################
+Inserir Semente
+<SYS_ACCEPT/> Selecionar    <SYS_SPECIAL/> Apagar
+<SYS_ACCEPT/> Selecionar    <SYS_SPECIAL/> Apagar    <SYS_SPECIAL2/> Aleatório
+Semente: %08X
+########################################
+## CHARACTER SELECTION SCREEN         ##
+########################################
+ESCOLHER AVENTUREIRO
+Jogador %d
+<SYS_ACCEPT/> Iniciar
+Voltar <SYS_BACK/>
+<LOG_ACTION/> Adicionar Bot
+<SYS_SPECIAL/> Adicionar Bot
+<LOG_BOMB/> Remover Bot
+<SYS_BACK/> Remover Bot
+<LOG_SPECIAL/> Mudar a IA
+<SYS_SPECIAL3/> Mudar a IA
+Descontraida
+Normal
+Agressiva
+Tartaruga
+Tática
+Aleatório
+SELEÇÃO RÁPIDA
+<LOG_ROPE/> Seleção Rápida
+<SYS_SPECIAL2/> Seleção Rápida
+Pressione <LOG_START/> para acessar o Menu de Opções e altere seu esquema de controles.
+As paredes estão se movendo...
+########################################
+## ARENA                              ##
+########################################
+ARENA
+<LOG_JUMP/> para reviver!
+Regras
+Formato
+Escolha o formato para jogar.
+Mata-mata
+Segure o Ídolo
+Mata-mata: a última pessoa viva vence.
+Segure o Ídolo: Segure pelo máximo de tempo possível.
+Conjunto de Regras
+Escolha o conjunto de regras para jogar.
+Casual
+Torneio
+Duelo
+Frenético
+Personalizado <SYS_ACCEPT_SECONDARY/>
+Favorito
+Casual: Um conjunto de regras simples com itens.
+Torneio: Regras dinâmicas e sem itens.
+Duelo: Comece com uma montaria e uma espada.
+Frenético: Bombas por todo lado!
+Personalizado: Um conjunto de regras único.
+Favorito: Suas próprias regras.
+Cronômetro
+Defina quanto tempo dura cada rodada.
+0:30
+1:00
+1:30
+2:00
+2:30
+3:00
+3:30
+4:00
+4:30
+5:00
+5:30
+6:00
+6:30
+7:00
+7:30
+8:00
+8:30
+9:00
+9:30
+10:00
+Infinito
+Fim do Tempo
+Defina o que acontece quando o tempo do cronômetro acaba.
+Rodada Termina
+Névoa Mortal
+Explosão Alienígena
+Bombas Livres
+Fantasma
+Aleatório
+Vitórias
+Defina quantas vitórias determinam o vencedor.
+Vidas
+Defina quantas vidas cada jogador tem por rodada.
+Tempo de Vitória
+Defina quantos segundos segurando o ídolo dão a vitória.
+10
+20
+30
+40
+50
+60
+70
+80
+90
+99
+Saúde
+Defina a saúde inicial de cada jogador.
+Bombas
+Defina com quantas bombas cada jogador inicia.
+Cordas
+Defina com quantas cordas cada jogador inicia.
+Tempo de Atordoamento
+Defina por quanto tempo os jogadores ficam atordoados.
+x0.00
+x0.25
+x0.50
+x0.75
+x1.00
+x1.25
+x1.50
+x1.75
+x2.00
+Dano de Chicote
+Defina quanto dano o chicote causa.
+0
+1
+2
+3
+4
+5
+10
+99
+Fantasma final
+Indica se o fantasma do jogador aparecerá quando ele perder a sua última vida.
+Des.
+Lig.
+Hálito fantasmal
+Ajuste o tempo de reutilização ou desative o hálito fantasmal.
+Nenhuma
+0.25
+0.5
+0.75
+1.0
+1.25
+1.5
+1.75
+2.0
+Hálito desativado
+Montaria
+Escolha se os jogadores começam com montarias.
+Nenhuma
+Peru
+Cão-pedra
+Axolote
+Aleatório
+Bola de punição
+Indica se o jogador aparece com uma bola de punição.
+Des.
+Lig.
+Seleção de Arena
+Escolha como as arenas são selecionadas entre as rodadas.
+Trocando de Turno
+Perdedor Escolhe
+Nível Aleatório
+Arenas
+Escolha quais arenas estão disponíveis para serem jogadas.
+Chance de Nível Escuro
+Defina a chance de uma rodada começar no escuro.
+Nenhuma
+10%
+50%
+Sempre
+Frequência de Caixas
+Defina a frequência do aparecimento de caixas na arena.
+Nenhuma
+Baixo
+Médio
+Alto
+Muito Alto
+Itens
+Escolha quais itens estarão disponíveis em caixas e quais você terá no início.
+<SYS_ACCEPT_SECONDARY/>
+<SYS_START/> Próximo
+Des.
+TUDO
+NENHUMA
+SELEÇÃO DA ARENA
+Ative ou desative uma arena para seleção entre as rodadas.
+PEQUENO
+GRANDE
+Desabilitar todas as arenas. (Pelo menos uma arena deve estar habilitada para jogar.)
+Habilitar todas as arenas.
+Ative ou desative arenas pequenas.
+Ative ou desative arenas grandes.
+Tamanho: %ls
+Pequeno
+Grande
+- Arena Bloqueada -
+Cavernas
+Selva
+Volcana
+Poça De Maré
+Templo De Anúbis
+Cavernas De Gelo
+Nova Babilônia
+Cidade Submersa
+CEMITÉRIO
+ESCADAS
+SALA DO CHEFE
+ESCAVAÇÃO
+APARTAMENTOS
+VINHEDOS
+RUÍNAS
+SEM RAÍZES
+TORRE AO CÉU
+ESPINHOSO
+ESTEIRA
+PRECÁRIO
+FUNDIDOR
+FERRO-VELHO
+ACORRENTADO
+CHURRASCO DE MARISCOS
+BARREIRA DE CORAIS
+POLE DANCE
+DUAS CASAS
+OITO TESOUROS
+ROTATÓRIA
+PIRÂMIDE
+CÂMARA FUNERÁRIA
+MOEDOR
+POÇO DE AREIA
+CAIXA DE GELO
+CASTELO INFLÁVEL
+NASCIMENTO
+A PLATAFORMA
+DEUS ESQUECIDO
+GAIOLA DE CHOQUE
+FUNGOSO
+MONTANHA SAGRADA
+CIDADE NEON
+USINA ELÉTRICA
+CICATRIZ
+INDIGESTÃO
+TEMPLO DO SAPO
+SONHO ENCANADO
+PAIXÕES
+SELEÇÃO DE ARENA
+Escolha a próxima arena para competir!
+É a vez de %d
+<LOG_ACCEPT/> Lute!
+ITENS DA ARENA
+Objeto do Nível
+Reforço
+Item em Posse
+Equipamento
+Equipamento das Costas
+Especial
+<LOG_ACCEPT/> Ative ou desative todos os itens.
+<LOG_ACCEPT/> Ative e desative objetos de nível.
+<LOG_ACCEPT/> Ative ou desative reforços.
+<LOG_ACCEPT/> Ative ou desative armas.
+<LOG_ACCEPT/> Ative ou desative equipamento.
+<LOG_ACCEPT/> Ative ou desative equipamentos das costas.
+<LOG_ACCEPT/> Ative ou desative itens especiais.
+<LOG_ACCEPT/> Ative ou desative este item.
+<LOG_ACCEPT/> Habilite este item como um item inicial ou simplesmente o ative ou desative.
+<LOG_SPECIAL/> Pular
+########################################
+## DM RESULTS SCREEN                  ##
+########################################
+<LOG_ACCEPT/> OK
+PRONTO!
+VITÓRIA DO JOGADOR 1!
+VITÓRIA DO JOGADOR 2!
+VITÓRIA DO JOGADOR 3!
+VITÓRIA DO JOGADOR 4!
+VITÓRIA DA EQUIPE 1!
+VITÓRIA DA EQUIPE 2!
+VITÓRIA DA EQUIPE 3!
+VITÓRIA DA EQUIPE 4!
+EMPATE!
+<LOG_ACCEPT/> Próxima!
+########################################
+## TEAM SELECTION                     ##
+########################################
+ESCOLHA AS EQUIPES
+<LOG_ACCEPT/> Iniciar
+########################################
+## PRE-MATCH HYPE                     ##
+########################################
+SEJA O PRIMEIRO A CONSEGUIR %d VITÓRIAS
+SEGURE O ÍDOLO POR %d SEGUNDOS
+########################################
+## TRANSITION TUNNEL                  ##
+########################################
+%d-%d CONCLUÍDO!
+Nesse nível:
+Total:
+Estatística
+Saque
+Pressione <LOG_ACCEPT/> para ir ao próximo nível
+########################################
+## GAME OVER                          ##
+########################################
+Reinício Rápido
+Trocar de Personagem
+Acampamento
+Semente Nova
+Sair para o Título
+########################################
+## CONTROLLER DISCONNECTION           ##
+########################################
+O controle do jogador %d foi desconectado. Reconecte-o ou conecte um novo e pressione <LOG_ACCEPT/> para continuar.
+O controle do jogador %d foi desconectado. Reconecte-o ou conecte um novo e pressione <LOG_ACCEPT/> para continuar.
+<LOG_CANCEL/> Voltar à tela de título
+<LOG_CANCEL/> Voltar ao menu principal
+########################################
+## JOURNAL MENU                       ##
+########################################
+Diário
+Lugares
+Pessoas
+Bestiário
+Itens
+Armadilhas
+História
+Registro %d
+Derrotados
+Mortos
+Morto Por
+N/A
+Você obteve o Diário!
+Registro Adicionado ao Diário
+<LOG_SELECT/> Fechar Diário
+########################################
+## JOURNAL - PLACES                   ##
+########################################
+DESCONHECIDO
+O registro ainda está esperando para ser descoberto.
+CAVERNAS
+O ar aqui é quente e seco. Tem cheiro de fumaça de fogueira e guano de morcego.
+SELVA
+Apesar de tudo, essa floresta densa e tropical parece estar cheia de vida.
+VOLCANA
+Esse mundo cheio de lava é quente como o Inferno! Quem diria que a Lua podia ter algo assim dentro dela?
+COVIL DE OLMEC
+Um santuário dedicado ao poderoso Olmec. Há uma qualidade atemporal a esse local de veneração.
+TEMPLO DE ANÚBIS
+Uma tumba enorme construída por faraós poderosos. Há histórias do passado, do presente e do futuro esculpidas em suas paredes.
+POÇA DE MARÉ
+Aqui jazem as ruínas de um antigo império, às margens de um vasto oceano subterrâneo.
+CAVERNAS DE GELO
+A vida ainda prospera dentro do núcleo congelado desse meteorito gigante.
+NOVA BABILÔNIA
+A capital dos Olmitas, um lugar de alta tecnologia, maravilhas incalculáveis e estímulos infinitos.
+CIDADE SUBMERSA
+No fundo do Posso a Primeira Cidade dorme.
+OCEANO CÓSMICO
+As águas turbulentas da criação que fluem do choro infantil de Hundun. Aqui se encontra o princípio e o fim.
+A CIDADE DE OURO
+Um lugar lendário para todos os caçadores de tesouros! Cada tijolo é feito de ouro maciço.
+DUAT
+Um deserto de cinzas e fogo que queima sob uma eterna lua de sangue. O domínio do deus Osíris.
+ABZU
+Uma santuário palaciano construído na parte mais profunda do mar.
+TRONO DE TIAMAT
+É onde a Rainha Tiamat deu à luz o Mundo. Agora é a sede do poder de onde ela guia seus filhos rebeldes.
+MUNDO BERINJELA
+Antes o palácio de um tirano poderoso, agora coberto por berinjelas pacíficas.
+ESCONDERIJO DE HUNDUN
+No ponto mais fundo do Poço é onde o Grande Sonhador rumina, sempre sentido e nunca conhecido.
+########################################
+## JOURNAL - BESTIARY                 ##
+########################################
+COBRA
+Cuidado, é bem capaz que ela dê um chilique sibilante!
+ARANHA
+Muito maior que a variedade caseira. Não deixe ela te pegar!
+ARANHA PENDURADA
+Ela até poderia te perseguir, mas prefere não abandonar a própria teia se possível.
+ARANHA GIGANTE
+Um aracnídeo assustador do tamanho de um carro. Ela lança teias grudentas para capturar sua presa.
+MORCEGO
+Um residente habitual de cavernas que, apesar de tudo, tem muita autoestima por causa de sua aparência fofinha.
+HOMEM DAS CAVERNAS
+Um dos nossos ancestrais primitivos. Sua vida simples chega a ser invejável.
+ESQUELETO
+Todo mundo tem um dentro de si... e mesmo assim ele ainda é assustador!
+ESCORPIÃO
+Às vezes você quebra um vaso e um pesadelo sai de dentro. Esse é o pesadelo.
+LAGARTO-DE-CHIFRES
+Ele ainda não descobriu como parar de rolar.
+TOPEIRA DE CAVERNA
+Quem tem dentes como lâminas e não precisa de sombras? A TOPEIRA DE CAVERNA!!!
+QUILLBACK
+O líder dos homens da caverna. Um brigão enorme que veste a pele do último porco-espinho das cavernas.
+ARMADILHA-HUMANA
+Depois que provou carne humana, nunca mais parou!
+TIKIMAN
+Um nativo mascarado das selvas que caça com um bumerangue enorme.
+XAMÃ
+Um ancião da Tribo Tiki que pratica magia negra. Esses xamãs usam uma efígie para atacar intrusos.
+MOSQUITO
+Uma praga irritante! Eu já me irrito só de pensar.
+MACACO
+Um brincalhão travesso da floresta. Ele simplesmente não se cansa de suas brincadeirinhas sem graça!
+MAGMAR
+Quando um aventureiro morre na lava, seu espírito pode ficar preso dentro dela ao invés de se libertar.
+ROBÔ
+Eles ficam patrulhando Volcana sem rumo, aguardando instruções de seus mestres mortos há muito tempo.
+INSETO DE FOGO
+Um inseto mortal que se protege inflamando o gás armazenado em seu corpo.
+DIABRETE
+Quando Yama desapareceu, esses servos desprezíveis surgiram do Inferno buscando emprego.
+LAVAMANDRA
+O sangue desse monstro semelhante a um lagarto é tão frio que só o intenso calor da lava faz ele circular.
+VAMPIRO
+Uma alma torturada que trocou sua humanidade pela vida eterna.
+VLAD
+O senhor das trevas de todos os vampiros. Ele se mudou para um grande castelo nas profundezas de Volcana.
+OLMEC
+Achava-se que era a causa de uma maldição que prendia exploradores em cavernas... Mas talvez ele tivesse somente uma pequena participação nela?
+HOMEM-CROCODILO
+Sua mordida poderosa e magia de teletransporte o tornam um inimigo perigoso.
+NAJA
+Uma serpente encapuzada com um hábito bem grosseiro.
+MÚMIA
+Esse tenebroso senhor da tumba desperta de seu torpor eterno para proteger o Templo de invasores.
+FEITICEIRA
+Uma usuária sábia de magia que manipula o poder da criação.
+MÚMIA-GATO
+Esses felinos mumificados estão carregados de maldições terríveis.
+NECROMANTE
+Um mestre das artes obscuras que dedicou sua vida ao estudo do Livro dos Mortos.
+ANÚBIS
+Um deus lendário com cabeça de chacal cuja missão é proteger os tesouros mais venerados do Templo.
+AMMIT
+Um aterrorizante demônio do submundo que devora os corações de almas impuras, fazendo com que morram uma segunda morte.
+APEP
+Um grande deus cobra com escamas de pedra e um estômago cheio de cinzas quentes que se arrasta incansavelmente pelo Duat.
+ANÚBIS II
+Tendo sido derrotado no Templo, Anúbis retorna ao submundo e implora por perdão ao seu pai, Osíris.
+OSÍRIS
+O governante do Duat e o juiz supremo das almas que chegam até ele.
+JIANGSHI
+Um cadáver reanimado. Suas pernas rígidas o forçam a saltitar.
+ASSASSINA JIANGSHI
+Essa jiang-shi astuta já foi uma assassina imperial.
+PEIXE VOADOR
+Um peixe estranho e aventureiro que faz o que pode para comer a "comida terrestre".
+POLVO
+Defende-se com um ataque de tinta cegante e uma coroa de cracas afiadas como navalhas.
+CARANGUEJO ERMITÃO
+Um solitário irritado que odeia ser perturbado. Sua saliva é muito venenosa!
+PANGXIE
+Um dos famosos guardas armados de Kingu. Suas garras podem esmagar madeira e pedra com facilidade.
+PEIXE-NAPOLEÃO
+Ele patrulha as águas salgadas do Grande Lago eternamente, aguardando a volta da Imperatriz que vai alimentá-lo.
+KINGU
+A companheira leal e protetora inabalável de Tiamat. Sua poderosa concha já suportou o impacto de um cometa.
+OVNI
+Na sociedade alienígena, ser piloto de disco-voador é considerada uma profissão inferior.
+ALIENÍGENA
+Os primogênitos de Tiamat. Nutrem um profundo ciúme dos Olmitas, pois pensam que ela os favorece.
+YETI
+Ele adora arremessar coisas e mascar chiclete. Só não sabe o que é chiclete!
+REI YETI
+O rei dos yetis é sempre o maior deles.
+RAINHA YETI
+A rainha dos yetis é sempre aquela que consegue derrotar o rei numa batalha.
+LAHAMU
+A filha mais velha de Tiamat. Uma senhora da guerra ciumenta e vingativa com poderosas habilidades psíquicas.
+PROTO COMERCIANTE
+Durante as Primeiras Guerras, Lahamu roubou o Homem Primordial para criar clones dele e obteve diferentes níveis de sucesso.
+LAMASSU
+Um poderoso semideus criado pelos Olmitas para ajudá-los a proteger a Nova Babilônia.
+OLMITA
+Os segundos filhos de Tiamat. Uma raça inquisitiva notável na criação.
+TIAMAT
+A Rainha do Mundo. Embora o mito e a lenda a tenham separado de seus descendentes, alguns ainda ouvem o seu chamado...
+SAPO
+Durante os éons, esses anfíbios inchados infestaram a Cidade Submersa.
+SAPO DE FOGO
+Alguns dos sapos da Cidade Submersa desenvolveram uma personalidade explosiva.
+SAPO GOLIAS
+Um sapo lendário. Carrega toda a família dentro de sua poderosa barriga.
+VERME
+Uma criatura inferior tentando passar para a próxima fase de seu ciclo de vida.
+GIRINO
+Um sapo bebê. Fica feliz em nadas em águas lamacentas.
+MOSCA GIGANTE
+Uma mosca de proporções titânicas. Parece ameaçadora, mas não demonstra muito interesse em nós...
+HUNDUN
+O confuso sonhador Hundun. O ovo cósmico Hundun. O filho majestoso Hundun. O imbatível Hundun.
+MINISTRO BERINJELA
+Os servos mais leais do Rei do Inferno, que continuaram a segui-lo mesmo ele não proferindo mais nenhum comando.
+BERINLHOTE
+Já foi um feroz cão do inferno, agora é um cãozinho brincalhão.
+ABELHA
+Uma parte importante do ecossistema da caverna. Porém, é bem maior e mais agressiva que a abelha comum.
+ABELHA-RAINHA
+A matriarca da colmeia. É possível encontrar uma bola de geleia real deliciosa em seu abdômen.
+ESCARAVELHO
+Um besouro voador com joias, reverenciado pelos seguidores de Anúbis e procurado pelos leprechauns e caçadores de tesouros.
+MACACO DOURADO
+Ele partiu numa aventura, mas uma feiticeira usou magia para transformá-lo em um ídolo.
+LEPRECHAUN
+Esse espírito ganancioso está atrás de bolsos cheios para furtar e colocar no seu esconderijo de tesouros.
+MONTY
+Um pug desamparado adotado por Tina Flan depois de sua primeira grande aventura. Companheiro relativamente fiel de Ana.
+PERCY
+Um gato desamparado que se esgueirou na nave espacial de Margaret Tunnel buscando um lugar quentinho para dormir.
+POOCHI
+Uma hamster desamparada que Colin Northward trouxe da Lua em nome da ciência. Infelizmente, ela escapou.
+FRACOTASMA
+Se em vida o espírito foi pequeno e rancoroso, na morte sua presença é fraca e difícil de notar.
+FANTASMA
+Um espírito raivoso e incansável que persegue os exploradores por razões desconhecidas.
+GELEIA CELESTIAL
+Esses poderosos titãs vagam pelas vastas águas do Oceano Cósmico, deixando para trás grandes ondulações que alteram o espaço e o tempo.
+PERU DE CAVERNA
+Um pássaro carnudo e grande, mais conhecido por seu papo suculento, também conhecido como papada.
+CÃO-PEDRA
+A pele desse canino que cospe fogo é protegido por placas de rocha sólida, por isso o nome.
+AXOLOTE
+A Imperatriz encontrou essas interessantes criaturas durante suas viagens e trouxe algumas de estimação. Elas escaparam rapidamente!
+QILIN
+Uma criatura mítica cuja chegada dizem coincidir com eventos importantes na história de humanos e deuses.
+VIAJANTE MECH
+Uma armadura mecanizada da classe MOYA projetada por alienígenas para combater os Olmitas durante as Segundas Guerras.
+########################################
+## JOURNAL - PEOPLE                   ##
+########################################
+Ana Spelunky
+Ela veio à Lua buscar sua mãe e pai. Uma jovem despreocupada com um coração de heroína.
+Margaret Tunnel
+Sua fascinação pelo oceano a afastou dos negócios da família. Seu sonho é comprar seu próprio navio pirata.
+Colin Northward
+Um artista e engenheiro curioso obcecado por Olmec e a Maldição das Cavernas.
+Roffy D. Sloth
+Ele tem vários pensamentos profundos, mas não tantos assim para sair comentando.
+Alto Singh
+Ele trabalha com educação física e quer ter certeza que todos estão cuidando bem da sua saúde e com atitude positiva.
+Liz Mutton
+Uma aventureira osso duro de roer que demora no aquecimento e precisa de seu isolamento, mas que se preocupa muito com os amigos.
+Nekka The Eagle
+Uma chefe guerreira feroz que quer confrontar os deuses e questioná-los sobre os problemas do universo.
+LISE Project
+Uma robô projetada para explorar e se divertir. Depois de 1000 anos, ela retornará aos seus criadores com os dados que coletou.
+Coco Von Diamonds
+A criadora da mundialmente famosa marca de moda e estilo de vida, Von Diamonds. Agora ela está de férias.
+Manfred Tunnel
+Ele finalmente decidiu experimentar a espeleologia depois de muitos anos de construção de atalhos.
+Little Jay
+O "Espeleólogo" autoproclamado que está tentando se tornar um explorador famoso. Fica um pouco animado demais na presença de seus heróis.
+Tina Flan
+Como cavadora relativamente desconhecida, ela conseguiu acertar o Rei Yama com uma berinjela. Ela tenta abafar sua fama!
+Valerie Crump
+Uma ávida fã de música e videogames. Ela está tentando encontrar inspiração criativa em suas viagens.
+Au
+Um monge de pele dourada e brilhante. Ao desafiar sua mente e corpo, ele tenta encontrar a paz em um universo caótico.
+Demi Von Diamonds
+A herdeira do império Von Diamonds. Ela teve uma vida replete de mimos, mas quer muito aprender mais sobre o mundo.
+Pilot
+Um pequeno e estranho astronauta de um planeta distante. Ele frequentemente é visto balbuciando sobre seu OVNI, o Campanella.
+Princess Airyn
+Especialista em culinária, ela viaja o mundo buscando sabores sofisticados para trazer para casa, no seu reino de Heliotropia.
+Dirk Yamaoka
+Um mestre ninja sempre buscando aprimorar suas habilidades. Quando a Lua o chamou, ele respondeu sem hesitar.
+Guy Spelunky
+Ele passou a vida em busca de aventura (e tesouros). Já não é mais um jovem e está reavaliando o que é mais importante para si.
+Classic Guy
+Uma versão de Guy Spelunky do mundo paralelo feito de blocos coloridos grandes e planos.
+TERRA TUNNEL
+Ela conheceu Manfred muitos anos atrás, quando ela o resgatou de um soterramento. Juntos, eles construíram um próspero negócio de construção de atalhos!
+MERCENÁRIO
+Ele ficou preso nas cavernas por muito tempo e quer muito a liberdade novamente.
+CRIANÇA BERINJELA
+Separados de sua mãe, eles sentem muito sua falta. São a personificação da curiosidade e potencial criativo.
+COMERCIANTE
+Um membro de carteirinha da Associação dos Comerciantes. Ele ODEIA furto mais que tudo!
+TUN
+Uma jovem misteriosa que fica atenta para o que está acontecendo nas Cavernas. Irmã de Beg.
+YANG
+O mais jovem dos 12 filhos de Yang, todos com o mesmo nome: Yang. Ele adora peru.
+MADAME TUSK
+A moradora mais famosa das cavernas, ou pelo menos é o que ela acha!
+WADDLER
+Ele tem um negócio de armazenagem e transporte de itens. Os clientes já reclamaram de receber os itens com gosma.
+COMERCIANTE HOMEM DAS CAVERNAS
+Um homem das cavernas empreendedor que tenta comprar mais coisas brilhantes para exibir aos amigos.
+COMERCIANTE FRACOTASMA
+Eles negociam seus produtos nos becos mais escuros, esperando preservar um fiapo de sua vida antiga.
+GUARDA-COSTAS
+Madame Tusk paga a eles extremamente bem.
+VAN HORSING
+Um veterano da primeira aventura. Ele busca vingança contra Vlad por razões desconhecidas.
+PARDAL
+Nascida em uma família ninja de destaque, ela desafiou os pais e se entregou aos roubos para desafiar sua autoridade.
+SALSINHA
+A mais jovem de três irmãs. Ela é alegre, mas também temperamental.
+CHIRÍVIA
+A irmã do meio de três irmãs. Ela adora festas e gatos.
+PARMESÃ
+A mais velha de três irmãs. Ela é tímida e acolhedora.
+BEG
+Por sua insegurança, ele foi atraído a Hundun e se entregou ao Caos. É irmão de Tun.
+REI BERINJELA
+Ele foi um rei poderoso... até uma corajosa exploradora desbancá-lo. Alguns dizem que agora ele é ainda mais poderoso.
+########################################
+## JOURNAL - ITEMS                    ##
+########################################
+PILHA DE CORDAS
+3 cordas para te ajudar a chegar naqueles lugares mais difíceis.
+SACO-BOMBA
+Um saco grande com 3 bombas.
+CAIXA-BOMBA
+Uma caixa resistente ao fogo com 12 bombas. O presente que todo aventureiro quer receber!
+PASTA
+Feito de teia de aranha. Cubra suas bombas com isso para deixá-las bem grudentas!
+ÓCULOS
+Melhora sua visão e também faz com que você pareça um pouco mais inteligente.
+LUVAS DE ESCALADA
+As pegas dessas luvas estão cheias de pequenas cerdas. É só se inclinar sobre as paredes para subir!
+LUVA DE PITCHER
+Essa luva clássica do beisebol americano que faz com que você se sinta como um jogador profissional.
+SAPATOS DE MOLA
+Um par de botas robustas equipadas com uma tecnologia alienígena de molas.
+SAPATOS DE PONTAS
+Um par de botas robustas com pontas afiadas na sola.
+BÚSSOLA
+Essa ferramenta clássica de explorador indicará a saída para você. Que conveniente!
+BÚSSOLA ALIENÍGENA
+Uma bússola especial projetada por alienígenas para ajudá-los a voltar para casa através do breu escuro do espaço.
+PARAQUEDAS
+Vai salvar sua vida quando você menos esperar!
+OLHO UDJAT
+O olho udjat é um símbolo de grande poder. Representa o olhar observador dos deuses.
+KAPALA
+Um copo de crânio dado ao devotos mais leais de Kali. Beber sangue nele pode melhorar a saúde e o esclarecimento de uma pessoa.
+HEDJET
+Uma coroa branca de faraó que indica o status do usuário como enviado dos deuses. Tem um brilho intenso.
+COROA
+Esse acessório real emite uma aura de autoridade inquestionável. É bem mais pesada do que parece!
+A COROA REAL
+Também conhecida como o chapéu com sinos. Uma coroa adequada para os seguidores de Hundun.
+COROA BERINJELA
+O Rei Berinjela legou essa coroa a mim. Eu me sinto em paz com o meu lugar no universo.
+ANKH
+Esse amuleto cobiçado foi criado pelos deuses para os seguidores considerados dignos o suficiente para terem sua vida prolongada.
+TÁBULA DO DESTINO
+Uma tábula de argila onde há muitas profecias esotéricas escritas.
+CHAVE MESTRA
+A ferramenta dos ladrões. Abre qualquer fechadura sem quebrar.
+GELEIA REAL
+Uma iguaria muito procurada por seu sabor refinado e propriedades curativas.
+CAPA
+Esse deslumbrante acessório da moda também pode ser usado para reduzir a velocidade na queda.
+CAPA DE VLAD
+A capa vermelho-sangue de Vlad, o Empalador. Oferece uma mobilidade impressionante.
+JETPACK
+É cara, mas muitos exploradores a cobiçam. Só fique de olho nos níveis de combustível!
+TELEPACK
+Permite que você se teletransporte e fique com as mãos livres! Mas é necessário estar com os pés fora do chão.
+HOVERPACK
+Um aperfeiçoamento da tecnologia Olmita. Permite que você paire indefinidamente.
+POWERPACK
+Desenvolvido para uso militar, o powerpack oferece ao usuário habilidades aprimoradas de manuseio de armas.
+TEIADOR
+Dispara teias sintéticas tão parecidas com as reais que até as aranhas não veem a diferença!
+ESCOPETA
+Uma escopeta básica de 12 balas. A favorita dos comerciantes para autodefesa e caçar ladrões.
+RAIO CONGELANTE
+Dizem que o mecanismo por traz da explosão congelante foi inspirado pelos espirros de um mamute extinto.
+ARMA CLONE
+Um protótipo sem igual! A tecnologia necessária para criá-lo está além de qualquer civilização conhecida.
+BESTA
+Uma arma de longo alcance e a favorita dos caçadores. Capaz de disparar flechas com precisão incrível.
+CÂMERA
+Essa câmera sofisticada vem com o flash mais poderoso do mercado no momento.
+TELETRANSPORTADOR
+Um dispositivo portátil de teletransporte. Ainda está no beta mesmo depois de tantos anos!
+PICARETA
+Uma ferramenta útil de escavação que quebra facilmente. A família Tunnel prefere pás.
+BUMERANGUE
+Um arma curvada de madeira que volta ao lançador depois de arremessada.
+FACÃO
+É longo, tem a lâmina larga e é ótimo para defesa e cortar vegetais para o jantar.
+EXCALIBUR
+A espada lendária. Empunhada por reis e rainhas nos tempos de grandes calamidades.
+ESPADA QUEBRADA
+Embora talvez não contenha mais a força total, ainda é uma arma formidável.
+CANHÃO DE PLASMA
+Construído por alienígenas, mas infelizmente o recuo se mostrou forte demais para se utilizar com facilidade.
+CETRO
+Uma ferramenta mágica usada pelo deus Anúbis para purificar as almas a caminho do julgamento.
+ARCO DE HOU YI
+Com esse arco simples e sofisticado, Hou Yi derrubou os nove sóis que queimavam a Terra.
+FLECHA DE LUZ
+Um raio de sol que reflete as lágrimas da Lua.
+ESCUDO DE MADEIRA
+Um escudo frágil de madeira empunhado pelos Tikimen para defesa básica contra o ambiente inóspito da Selva.
+ESCUDO DE METAL
+Um escudo de cavaleiro altamente durável e feito de aço temperado.
+ÍDOLO
+Você pode levar esse ídolo valioso para a saída ou para loja e trocar por ouro.
+O ÍDOLO TUSK
+Um ídolo de morsa esculpido em um diamante extra largo. Um dos tesouros mais preciosos da Madame.
+VASO DA MALDIÇÃO
+Um vaso de argila cheio de uma substância tóxica que dizem ser uma mistura de ectoplasma e sangue amaldiçoado.
+USHABTI
+Uma figura funerária criada para acompanhar alguém na jornada ao submundo.
+BERINJELA
+É frágil, mas cheia de vitalidade. Lembra-nos de valorizar cada momento da vida.
+PERU COZIDO
+Um peru que foi cozido no ponto. A carne é macia e saborosa.
+ELIXIR
+Uma poção restauradora que dizem cura qualquer aflição. Mistura-se geleia real para diminuir o amargor.
+TREVO-DE-QUATRO-FOLHAS
+Um trevo raro cobiçado por leprechauns pela sua proteção e boa sorte.
+########################################
+## JOURNAL - TRAPS                    ##
+########################################
+ESTACAS
+Ah, estacas! A armadilha clássica. Têm muitos formatos e tamanhos, e todas machucam.
+ARMADILHA DE FLECHA
+Uma armadilha antiga de origem desconhecida. Responsável pela morte de muitos exploradores.
+ARMADILHA DE TOTEM
+Quillback construiu algumas para treinar seus seguidores, mas na realidade elas servem mesmo para colocá-los "para dormir".
+ARMADILHA DE TORAS
+O tronco de uma árvore enorme esculpida por Quillback e amarrada para proteger seu tesouro.
+ARMADILHA DE LANÇA
+Essas armadilhas com lanças de madeira são difíceis de notar no meio da folhagem da Selva.
+VINHAS ESPINHOSAS
+Os espinhos dessas vinhas espessas não são longos o suficiente para empalar, mas são afiados o suficiente para dar cutucadas doloridas.
+CAIXA DE PÓLVORA
+Uma caixa de madeira preenchida às pressas com pólvora preta. Explodirá ao menor dos movimentos.
+PLATAFORMA FRÁGIL
+Uma frágil saliência na rocha que não vai suportar muito peso...
+BOLA DE ESPINHOS
+Uma bola com corrente grande que foi feita para esmagar rochas.
+ARMADILHA DE LEÃO
+Dizem que a Imperatriz teve sucesso ao afastar uma horda de bárbaros usando somente esses leões dourados.
+MARISCO GIGANTE
+Com o passar dos anos, o tesouro da Imperatriz chegou ao oceano e nas bocas desses moluscos grandalhões.
+PAREDE DESLIZANTE
+Um mecanismo semelhante a uma porta ativado por uma alavanca.
+ARMADILHA ESMAGADORA
+Um bloco de rocha sólida projetado pelos faraós para esmagar os pretensos ladrões de tumbas.
+ARMADILHA ESMAGADORA GIGANTE
+Uma versão extra grande da armadilha esmagadora para os faraós perspicazes que querem um poder extra de esmagamento.
+ROCHA
+Uma rocha gélida liberada para esmagar caçadores de tesouros que chegam às Cavernas de Gelo.
+ARMADILHA DE MOLA
+Na sociedade alienígena, pular para cima e para baixo é uma forma casual de recreação e exercício.
+MINA TERRESTRE
+Um dispositivo explosivo acionado por proximidade. Desative antes que seja tarde demais!
+ARMADILHA DE LASER
+Uma arma fixa de laser acionada por um detector de movimento.
+ARMADILHA DE FAÍSCA
+A enorme quantidade de excesso de energia gerada por Nova Babilônia é canalizada para engenhocas perigosas como essa.
+ARMADILHA DE SAPO
+A lança é tão grande que é difícil imaginar que foi projetada para uso contra seres humanos...
+ARMADILHA PEGAJOSA
+Uma formação estranha cuja protuberância carnuda lembra uma úvula.
+QUEDA DE OSSOS
+Essa massa de ossos é tão grande que está começando a explodir do chão.
+SACO DE OVOS
+Por baixo da fina membrana é possível ver algo se contorcendo vigorosamente.
+ARMADILHA PARA URSOS
+A menor pressão fará essas poderosas mandíbulas de aço se fecharem e causarem um dano enorme.
+########################################
+## JOURNAL - TABLET OF DESTINY        ##
+########################################
+# "Aspirant" definition: a person who has ambitions to achieve something
+########################################
+Um servo %ls de %ls marcado por %ls deverá abrir a porta para o Aspirante.
+rachado
+simples
+sorridente
+alto
+argila
+ouro
+jade
+madeira
+ônix
+o olho
+o ankh
+a cobra
+o vórtice
+o morcego
+########################################
+## JOURNAL - STORY                    ##
+########################################
+Nossa, já faz 15 anos desde o meu último registro! Aconteceu tanta coisa desde que escapei da Caverna de Olmec com o tesouro dele.
+Tina e eu nos tornamos pais! E batizamos nossa filha de Ana. Ela é uma criança forte... e uma exploradora por natureza!
+Os sonhos começaram quando Ana fez cinco. Tinha um sonho no qual eu olhava pela janela para a Lua cheia e via a face de Olmec nela. Tentei ignorar isso.
+Quer dizer, todos nós vimos Olmec afundar naquele lago de lava...\n\nNão vimos?
+Nossa curiosidade era demais para resistir. Com a ajuda do Colin, Tina e eu construímos uma espaçonave que nos levaria à Lua.
+Ana quer vir, mas parece um pouco perigoso e prefiro que ela fique e termine o ano escolar. Além disso, a gente vai voltar antes que ela perceba! Não deve existir nada lá mesmo...
+Foi difícil se despedir.\n\nParte de mim queria trazer a Ana junto... ela adora o espaço e a gente ainda quer mostrar para ela as coisas na nave. Pelos menos ela tem o Monty para fazer companhia.
+É inacreditável! Há um Olmec gigante na superfície da Lua! E uma caverna! Fomos tomados por um sentimento de déjà vú, além de sermos atraídos em direção à entrada como ferro atraído por um ímã. Uma voz está nos chamando... será Olmec ou alguma outra coisa?
+Parece que já estamos na Lua há muitos meses, mas é difícil dizer. Assim como antes, o tempo e a morte funcionam de maneira diferente aqui.\n\nParece que caímos por outra fenda no Universo... como a Caverna de Olmec... conectada a ela, talvez... mas também maior, muito maior!
+Ana, se estiver lendo isso, então provavelmente já descobriu que a Mamãe e o Papai estão em algum lugar aqui embaixo, tentando descobrir como sair. Sinto muito, nós deveríamos ter trazido você junto! Mas tente não se preocupar. Para ser sincero, estamos nos divertindo! Aproveite e não se apresse. E lembre-se, é mais fácil de se machucar quando não se tem cuidado.
+Lembre-se do que te ensinamos e tudo vai dar certo. Esse diário agora é seu! Tire todo o proveito dele e nos vemos em breve!
+Desfrute de espeleologia!
+########################################
+## GAME OVER - DEATHS                 ##
+########################################
+Acabou a Partida
+### Fall damage
+########################################
+QUEDA LONGA
+Quebrei todos os ossos do meu corpo.
+### Pit
+########################################
+AINDA CAINDO
+Ainda não cheguei ao fundo...
+### Bad teleport
+########################################
+PERDIDO
+Eu me teletransportei bem numa parede!
+### Poison
+########################################
+ENVENENADO
+Ooh, minhas entranhas doem...
+### Alien
+########################################
+SONDADO
+Um alienígena trombou feio comigo.
+### Alien Queen
+########################################
+APAGADO
+A rainha dos alienígenas derreteu meu cérebro.
+### Ammit
+########################################
+MASTIGADO
+Um ammit me fez morrer pela segunda vez.
+### Anubis
+########################################
+PURIFICADO
+Anúbis arrancou minha alma de sua prisão carnal.
+### Anubis 2
+########################################
+VINGADO
+Anúbis teve imenso prazer em me eliminar do submundo.
+### Apep
+########################################
+COMIDO
+O deus cobra lanchou a minha alma.
+### Bat
+########################################
+MORDIDO
+Um morcego me mordeu até a morte.
+### Bee
+########################################
+PICADO
+Devo ser alérgica a abelhas...
+### Cat Mummy
+########################################
+GATA MÁ!
+Uma gata múmia decidiu que não gostava de mim.
+### Caveman
+########################################
+ESPANCADO
+Um homem das cavernas me bateu até a morte.
+### Caveman boss
+########################################
+ESPANCADO
+Quillback me mostrou todo o poder de sua força primitiva!
+### Cobra
+########################################
+MORDIDO
+Sucumbi ao veneno de uma naja.
+### Crab man
+########################################
+PINÇADO
+Não consegui quebrar a casca de um homem caranguejo.
+### Crocman
+########################################
+MASTIGADO
+Um homem-crocodilo arrancou um belo pedaço meu.
+### Female Jiang-shi
+########################################
+PISOTEADO
+Uma assassina jiang-shi quebrou meu pescoço.
+### Firebug
+########################################
+INCENDIADO
+Um inseto de fogo me assou viva.
+### Fire Frog
+########################################
+MONTADO
+Um sapo de fogo achou que eu era uma vitória-régia.
+### Fish
+########################################
+ENGANADO
+A pescadora virou a pesca...
+### Frog
+########################################
+MONTADO
+Um sapo me transformou em uma vitória-régia.
+### Ghost
+########################################
+ASSOMBRADO
+Onde estou? Não sinto meu corpo...
+### Giant Clam
+########################################
+ENGANADO
+Fui esmagada pelas mandíbulas de um marisco gigante.
+### Giant Fish
+########################################
+COMIDO
+O apetite do Peixe-napoleão foi saciado temporariamente.
+### Giant Fly
+########################################
+ECA
+Uma mosca gigante me enojou... até a morte!
+### Giant Frog
+########################################
+MORTE
+Um sapo gigante achou que eu era irritante.
+### Giant Spider
+########################################
+MORDIDO
+Uma aranha gigante me caçou.
+### Grub
+########################################
+INFESTADO
+Ainda sinto se contorcendo por cima de mim! Cruzes!
+### Hang Spdier
+########################################
+MORDIDO
+Uma mordida de aranha acabou com a minha vida.
+### Hermit Crab
+########################################
+MORTE
+O caranguejo ermitão estava irritado.
+### Horned Lizard
+########################################
+MORTE
+Um lagarto-de-chifres acabou comigo.
+### Hundun
+########################################
+CAOS ETERNO
+Sucumbi ao sonho de Hundun.
+### Imp
+########################################
+MORTE
+Um diabrete acabou comigo.
+### Jiang-shi
+########################################
+PISOTEADO
+Um jiang-shi montou em mim.
+### Lamassu
+########################################
+ESPEZINHADO
+Um lamassu sapateou em mim.
+### Lavamander
+########################################
+COZIDO
+Uma lavamandra me jantou.
+### Magma man
+########################################
+INCENDIADO
+Um magmar me derretiu.
+### Mantrap
+########################################
+COMIDO
+Fui devorada por uma armadilha-humana.
+### Mega Jellyfish
+########################################
+SANDUÍCHE DE ÁGUA-VIVA
+Uma água-viva astral me transformou em energia pura.
+### Merchant
+########################################
+VINGANÇA DE TUN
+Eu não devia ter enfurecido ela!
+### Mole
+########################################
+MORTE
+Uma toupeira mastigou um buraco no meio de mim.
+### Mosquito
+########################################
+MORDIDO
+Um mosquito sugou até as últimas gotas do meu sangue.
+### Mummy
+########################################
+MORTE
+Um senhor da tumba descontou o rancor de mil anos em mim.
+### Necromancer
+########################################
+ZOMBIFICADO
+Acabei virando outro zumbi servil de um necromante.
+### Octopush
+########################################
+MORTE
+Um polvo me deu oito razões para eu me sentir péssima.
+### Olmec
+########################################
+MALDIÇÃO DE OLMEC
+Olmec provou porque ele ainda é o chefe.
+### Olmite
+########################################
+MORTE
+Um olmita fez uma jogada de mestre e eu perdi.
+### Osiris
+########################################
+JULGADO
+Osíris achou que eu não era digna de se juntar a ele no além.
+### Proto shopkeeper
+########################################
+ROÍDO
+Aquele protótipo de comerciante foi bem eficaz ao me matar!
+### Queen Bee
+########################################
+PICADO
+Uma abelha-rainha me sentenciou à morte.
+### Robot
+########################################
+MORTE
+Um robô sem um pingo de emoção acabou com a minha vida.
+### Rockdog
+########################################
+MORDIDO
+Um cão-pedra pulou direto na minha jugular.
+### Scorpion
+########################################
+PICADO
+Um escorpião me picou até a morte.
+### Shopkeeper
+########################################
+ESPANCADO
+Acho que eu não devia ter enfurecido o comerciante...
+### Skeleton
+########################################
+ARREBENTADO
+Um esqueleto me partiu no meio.
+### Snake
+########################################
+MORDIDO
+Uma cobra me mordeu.
+### Sorceress
+########################################
+ENFEITIÇADO
+Uma feiticeira usou um feitiço poderoso e acabou comigo.
+### Spider
+########################################
+MORDIDO
+Uma mordida de aranha acabou com a minha vida.
+### Tadpole
+########################################
+GIRINO
+Apesar de bonitinho, aquele girino acabou com minha vida!
+### Tiamat
+########################################
+REJEITADO
+Falhei ao cumprir com as expectativas da Deusa Mãe.
+### Tikiman
+########################################
+ESPANCADO
+Um tikiman me atacou até a morte.
+### UFO
+########################################
+SONDADO
+Um OVNI tirou minha vida.
+### Vampire
+########################################
+MORDIDO
+Posso sentir minha humanidade desaparecer com a mordida do vampiro...
+### Vlad
+########################################
+MORDIDO
+Posso sentir minha humanidade desaparecer com a mordida do Vlad...
+### Witch Doctor
+########################################
+MORTE
+Um xamã acabou com a minha vida.
+### Witch Doctor Skull
+########################################
+MORTE
+Sucumbi a uma maldição de um xamã.
+### Yeti
+########################################
+MORTE
+Um yeti me fez de brinquedo.
+### Yeti King
+########################################
+SALVE O REI
+O Rei Yeti está me usando como almofada.
+### Yeti Queen
+########################################
+SALVE A RAINHA
+A Rainha Yeti está me usando como cachecol.
+### Arrow
+########################################
+PERFURADO
+Um flecha perfurou um órgão vital.
+### Big spear trap
+########################################
+EMPALADO
+Uma lança gigante abriu um furo bem no meio de mim.
+### Boulder
+########################################
+ESMAGADO
+Pelo jeito eu não sou mais veloz do que uma rocha.
+### Crush trap
+########################################
+ESMAGADO
+Uma armadilha esmagadora me transformou em uma panqueca.
+### Drill
+########################################
+ESMAGADO
+Fui esmagada por uma broca gigante.
+### Elevator
+########################################
+ESMAGADO
+Eu deveria ter ficado num lugar um pouco mais seguro!
+### Explosion
+########################################
+EXPLODIDO
+Uma explosão me lançou pelos ares.
+### Laser trap
+########################################
+ELETRIZADO
+Uma armadilha de laser me pegou desprevenido.
+### Lava
+########################################
+DERRETIDO
+Fui queimada pela lava e virei torresmo.
+### Lion trap
+########################################
+ESFAQUEADO
+Uma armadilha de leão me perfurou.
+### Platform
+########################################
+ESMAGADO
+Fui esmagada por um bloco que caiu.
+### Powderkeg
+########################################
+EXPLODIDO
+Um barril de pólvora me explodiu em pedacinhos.
+### Pushblock
+########################################
+ESMAGADO
+Fui esmagada por um bloco que caiu.
+### Sacrifice
+########################################
+SACRIFICADO
+Fui sacrificada para Kali.
+### Skull drop
+########################################
+BATIDO
+É muito estranho, mas meu crânio foi partido por outro crânio.
+### Sliding wall
+########################################
+ESMAGADO
+Eu deveria ter ficado num lugar um pouco mais seguro!
+### Bear trap
+########################################
+QUEBRADO
+Fui pega nas mandíbulas da morte.
+### Spark trap
+########################################
+CHOCADO
+Tive uma experiência de levantar os cabelos com a armadilha de choque.
+### Spear trap
+########################################
+ESFAQUEADO
+Um armadilha de lança me espetou.
+### Spikeball
+########################################
+ESMAGADO
+Fui esmagada por uma armadilha de bola de espinhos.
+### Spikes
+########################################
+EMPALADO
+Caiu em algumas lanças.
+### Thorn vine
+########################################
+PERFURADO
+Sangrei com uns espinhos afiados.
+### Totem trap
+########################################
+SOCADO
+Uma armadilha de totem me socou até eu apagar.
+### Wooden Log Trap
+########################################
+ESMAGADO
+Fui vítima da minha própria ganância...
+### Default
+########################################
+MORTE
+Encontrei meu destino final.
+### 3rd Run
+########################################
+HMMM...
+Acho que vai ser mais difícil do que eu pensei!
+### 10th Run
+########################################
+E MAIS UMA MORTE
+Mas estou aprendendo um pouquinho mais a cada vez!
+### 100th Run
+########################################
+100 MORTES
+Você tem que admirar minha persistência! Sei que vou chegar lá!
+### Furthest Run
+########################################
+PROGRESSO
+É o mais longe que eu já cheguei!
+### High Score Run
+########################################
+RECORDE
+Nossa, tenho um novo recorde! Que sensacional!
+### Level 1-4 / 2-4 / 4-4
+########################################
+TÃO PERTO
+Estava tão perto de chegar à próxima área... talvez da próxima vez!
+### CoG
+########################################
+DOURADO
+É a tumba mais extraordinária do Universo...
+### Eggplant World
+########################################
+VENDO ROXO
+Conforme eu afundava nas berinjelas, uma sensação de paz tomou conta de mim...
+### Co-op 1-1
+########################################
+HMMM...
+Tudo bem! Só precisamos de mais treino!
+### Co-op 1-4 / 2-4 / 4-4
+########################################
+TÃO PERTO
+Estávamos tão perto de chegar à próxima área... talvez da próxima vez!
+### Co-op Area < 5
+########################################
+TRABALHO EM EQUIPE BOM
+Nosso trabalho em equipe está começando a ficar bom.
+### Co-op Area < 6-4
+########################################
+TRABALHO EM EQUIPE ÓTIMO
+Não chegamos ao fim, mas temos que ficar orgulhosos de até onde chegamos.
+### Co-op 6-4
+########################################
+TÃO PERTO
+Tiamat nos derrotou! Mas conseguiremos a vitória na próxima vez!
+### Co-op Area < 7-4
+########################################
+TRABALHO EM EQUIPE INCRÍVEL
+Trabalhamos juntos como se fôssemos uma única pessoa!
+### Co-op 7-4
+########################################
+TÃO PERTO
+Sucumbimos ao Caos. Mas o esforço valeu a pena!
+### Co-op Area > 7-4
+########################################
+EQUIPE DOS SONHOS
+Estamos ligados aos Cosmos!
+########################################
+## GAME OVER - PROFILE                ##
+########################################
+Perfil de Jogador
+Jogos
+Vitórias
+Mortes
+% de Vitórias:
+Pontuação Média:
+Melhor Pontuação:
+Nível mais Profundo:
+Nível mais Mortal:
+Tempo Médio:
+Melhor Tempo:
+Último Jogo
+As estatísticas do Perfil do Jogador são obtidas do Modo Aventura e do Desafio Diário durante o jogo de jogador único.
+########################################
+## GAME OVER - RUN RECAP              ##
+########################################
+Querido Diário,
+Liderei uma equipe de %d para as profundezas.
+Fui pacifista.
+Fui vegano.
+Fui vegetariano.
+Fui obediente às leis.
+Fui delinquente.
+Fui procurado da justiça.
+Fui chefe do crime.
+Fui rei.
+Fui rainha.
+Fui tolo.
+Fui uma berinjela.
+Não liguei para dinheiro.
+Gostei de cães.
+Gostei de gatos.
+Gostei de hamsters.
+Gostei de animais de estimação.
+Amei cães.
+Amei gatos.
+Amei hamsters.
+Amei animais de estimação.
+Recebi meu primeiro dano no nível %d-%d (%ls).
+Recebi meu primeiro dano no nível %d-%d.
+Sobrevivi à morte uma vez.
+Matei Kingu, o Consorte da Rainha.
+Matei Osíris, o Rei do Submundo.
+Apesar de tudo, derrotei Tiamat e escapei para a superfície.
+Para minha surpresa, derrotei Hundun e escapei para a superfície.
+Minha habilidade, conhecimento e coragem permitiram eu me fundir ao Cosmos.
+Acabei morrendo no nível %d-%d (%ls).
+Acabei morrendo no nível %d-%d.
+Até a Próxima!
+Falou!
+Tenho Tantas Perguntas...
+Legal...
+Pensamento Positivo!
+Hmmm...
+Até Minha Força Acabar,
+Baixando Dados...
+Tchau!
+Que Saudades da Minha Pá!
+Quero Muito Tentar de Novo!
+Até a Próxima!
+Abraços,
+Aprendendo Sempre,
+Obrigado por Ouvir!
+Desligando,
+Cordialmente,
+Cordiais Saudações,
+Isso é Tudo,
+...
+########################################
+## Shop                               ##
+########################################
+Comprar %ls
+Contratar %ls
+# Shop item names
+Pilha de Cordas
+Saco-bomba
+Caixa-bomba
+Óculos
+Luvas de Escalada
+Luva de Pitcher
+Sapatos de Mola
+Sapatos de Pontas
+Pasta
+Bússola
+Paraquedas
+Hedjet
+Chave Mestra
+Geleia Real
+Jetpack
+Capa
+Telepack
+Hoverpack
+Powerpack
+Teiador
+Escopeta
+Raio Congelante
+Besta
+Câmera
+Teletransportador
+Picareta
+Bumerangue
+Facão
+Canhão de Plasma
+Escudo de Metal
+Peru
+Cão-pedra
+Axolote
+Monty
+Percy
+Poochi
+Presente
+Crânio
+Pedra
+Vaso
+Flecha
+Peru
+########################################
+## HUD                                ##
+########################################
+#### Kali
+########################################
+Kali aceita seu sacrifício!
+Você se sente revigorada!
+Ela concede um presente a você!
+Ela parece extasiada com você.
+Ela parece feliz com você.
+Ela perdoa você.
+Ela parece contente com você.
+Ela parece brava com você.
+Ela parece muito brava com você.
+Você enfureceu Kali!
+Ainda assim, ela parece extasiada com você.
+Ainda assim, ela parece feliz com você.
+Ainda assim, ela parece contente com você.
+Kali admira seu espírito guerreiro.
+Ela criou uma arma para você!
+Então você deseja companhia? Aqui está!
+Kali gosta de um bom mistério!
+########################################
+#### General
+########################################
+O cetro encaixa, mas nada acontece!
+Um calafrio terrível percorre a sua espinha!
+Você se sente protegida!
+Obrigado por me tirar de lá!
+########################################
+#### Feelings
+########################################
+Sua voz ecoa aqui...
+Você ouve o soar de tambores...
+Boas-vindas ao Mercado Negro!
+Seu sangue começa a gelar...
+Você ouve os sons de metal tinindo...
+Há um ar de opressão aqui...
+Você sente uma explosão de emoções dentro de si!
+Tem cheiro de pelo molhado aqui!
+Você ouve sons de festa!
+Você sente uma estranha paz.
+Você ouve um zunido incessante...
+Os mortos estão agitados!
+Você não vê nada!
+Você se sente perdoada.
+########################################
+#### Shopkeeper
+########################################
+Boas-vindas a %ls de %ls!
+Boas-vindas, Vossa Alteza! Está vendo algo de interessante?
+# The following line is meant to be slightly mocking:
+Oh, olá, Vossa Alteza! Viu algo que gostou, hehe?
+Já vendi absolutamente tudo!
+Loja Geral
+Loja de Roupas
+Loja de Armas
+Loja de Especialidades
+Loja de Mercenários
+Loja de Animais de Estimação
+Casa dos Dados
+Jogar Dados
+A Casa dos Dados está fechada! Estou sem itens!
+Você apostou $%d! Agora jogue os dados!
+Você tirou um %d!
+Você perdeu.
+Você ganhou!
+Você ganhou um prêmio!
+Pare, ladrão!
+Vândalo!
+Trapaceiro!
+Nossa, que gastadora! Vou lembrar de você!
+# Buying an idol from the player:
+Fico feliz de te ajudar com essa!
+########################################
+#### Merchant
+########################################
+Boas-vindas, Renascido. Tenho produtos para vender.
+Ah, um dos tolos seguidores do meu irmão!
+Que você sobreviva ao Caos um pouco mais.
+Boas-vindas ao Desafio da Lua, Renascido.
+Boas-vindas ao Desafio da Estrela, Renascido.
+Um aviso, Renascido... o Desafio do Sol pode custar sua vida.
+Iniciar Desafio
+Passe pela porta para iniciar o desafio.
+%d...
+Começa o desafio!
+Que haja luz!
+Sobreviva!
+Faltam 5 segundos!
+Você venceu!
+O tempo acabou! Você perdeu...
+Foi uma boa tentativa, Renascido. Até a próxima vez.
+Desafio concluído! Volte para a entrada.
+Parabéns por concluir o desafio!
+Talvez você encontre a vitória na próxima vida.
+Você fez uma péssima escolha!
+Você deve ser um servo de Hundun!
+Aceito a troca humildemente.
+Renascido, você fez bem ao chegar neste lugar.
+########################################
+#### Caveman Shopkeeper
+########################################
+Ugh! Ugh!
+UGH! UGH! UGH!
+OOHA! HA!
+Ooga! Ooga!
+AH! AH!
+Ooooooga... OOH! OOH!
+########################################
+#### Yang
+########################################
+Estou procurando perus... quer ajudar?
+Valeu!
+Nossa, valeu! Pode aproveitar do meu tesouro.
+Vou vingar meus amigos com penas!
+Pare, ladrão!
+Seu vilão!
+Boas-vindas à Loja de Animais de Estimação do Yang!
+Estou bem feliz agora!
+Volte aqui com meu peru, sua sem vergonha!
+Sua monstra!
+Ah sim, vou comprar esse ídolo de você!
+Cuidado, amiga... esse caminho é só de ida!
+Só estou fazendo umas comprinhas!
+Não percebi que eles estariam servindo peru aqui...
+########################################
+#### Madame Tusk
+########################################
+Olá, minha querida! Está com sorte essa noite?
+Desculpe, minha querida... você rapelou a gente!
+Valeu pelos $%d! Vamos ver o que o dado tem para você!
+Ah, saiu um %d!
+Mais sorte na próxima, minha querida.
+A sorte sorri para você!
+Você ganhou um prêmio, minha querida!
+Grande apostadora, hein! Venha me encontrar no meu Palácio do Prazer...
+Ah, é você! Descanse e aproveite da minha comida!
+Nossa, você chegou nessas condições?!
+Não tem nada que eu odeie mais que um LADRÃO!
+Por que, sua bela de uma malandra!
+Vai ser uma bela adição à minha coleção!
+########################################
+#### Bodyguard
+########################################
+Pode entrar. A Madame te espera.
+Desculpe, você não está na lista.
+Fique fora!
+Alguém está tentando roubar a Madame!
+########################################
+#### Storage Guy
+########################################
+Sou o Andarilho. Posso carregar seus itens até as profundezas da caverna para você.
+O que você acha que está fazendo, imbecil!
+Aqui é onde eu fico. Espero ter ajudado você na sua jornada.
+########################################
+#### Sisters
+########################################
+Valeu! Nem acredito que me prendi aqui.
+Tome isso aqui para te ajudar!
+Essa porta não está parecendo boa coisa.
+Brrr! Que pena que não trouxe uma jaqueta!
+Ótima festa, né?
+########################################
+#### Old Hunter
+########################################
+Tusk não vai ficar feliz com isso, mas valeu.
+Faz tempo que estou caçando essa malandra!
+A coisa está feia para mim. Tome.
+Ha! Uma dupla de almas desafortunadas. Tomem!
+Pelo menos ela tirou minha maldição...
+Sinto perigo além daquela porta.
+########################################
+#### Thief
+########################################
+Você é boa... mas é boa o suficiente para roubar da Madame Tusk?
+Irmao mais velho! Nunca pensei que te pegaria roubando...
+Que pena. Cheguei primeiro.
+Impressionante! Me encontre no Palácio do Prazer se realmente quiser ficar rica...
+Se passar pelos lasers, eu divido o tesouro com você.
+Ei, essa parte é minha!
+Bom trabalho! Somos uma excelente equipe!
+########################################
+#### Servant of Hundun
+########################################
+Parece que você curte um Caos!
+Ah, então você realmente ama o Caos! Que nem eu!
+########################################
+#### Terra
+########################################
+Oi, oi! Sou Mama Tunnel. Você também pode me chamar de Terra.
+Olá, querido! Espero que sua aventura esteja sendo ótima!
+Oi, bonitão! encontrou algo de bom?
+E aí? Como está indo a aventura?
+Estou trabalhando em um novo atalho, mas fiquei sem suprimentos.
+Que tal doar $2.000 para eu reabastecer?
+Esse atalho parece bom, mas acabei topando com uma sala cheia de armadilhas.
+Acho que seria melhor se eu explodisse tudo. Você tem uma bomba?
+Cheguei perto de terminar o atalho, mas daí minha picareta quebrou!
+Você me dá uns $10.000? Preciso de uma reposição de alta qualidade.
+Comecei um novo atalho, mas tem um pedaço de rocha gigante no caminho.
+Vou precisar de uma corda para subir.
+Você não acreditaria com quantos monstros eu topei.
+Você pode me trazer uma arma da próxima vez que voltar?
+Oh, você tem um facão! Posso ficar com ele?
+Oh, você tem uma besta! Posso ficar com ela?
+Ah, você tem um bumerangue! Posso ficar com ele?
+Ah, você tem um arco! Posso ficar com ele?
+Oh, você tem uma arma! Posso ficar com ela?
+O segundo atalho está quase pronto! Mas esse vai e vem está ficando cansativo.
+Se eu tivesse uma montaria seria muito mais rápido.
+Oh! Que belezinha de %ls! Posso ficar para mim?
+Comecei o terceiro atalho! E vai ser um bem longo.
+Sei que é bastante, mas vou precisar de $50.000 para terminar.
+Ufa, uma ajuda para esse último atalho não seria nada mal.
+Se eu tivesse um Mercenário, as coisas iriam mais rápido...
+Ei, seu amigo parece bem forte! Será que ele pode me ajudar?
+Quase lá! O único empecilho agora é essa porta grande com uma trava no formato de um escaravelho.
+Ouvi dizer que há uma chave de ouro lá perto da entrada. Talvez ela encaixe?
+Essa sua chave parece que vai encaixar perfeitamente!
+Claro!
+Agora não...
+Valeu! Mal posso esperar para terminar esse atalho.
+Ai... certo. Uma pausa me faria bem, de qualquer jeito.
+Ei, parece que você não teve o suficiente!
+########################################
+#### Tiamat
+########################################
+Você não me decepcionou... até a próxima...
+########################################
+#### Yama
+########################################
+Todo rei e rainha um dia perde a coroa...
+Coma vegetais!
+Ah! Você veio para terminar o trabalho!
+Aqui jaz a Imperatriz. Que ela finalmente descanse em paz.
+########################################
+## BASE CAMP SHORTCUTS                ##
+########################################
+Estação de Atalho: em breve! - Mama Tunnel
+Atalho para Área 1-4
+Atalho para Área 3
+Atalho para Área 5
+Novo atalho em breve! - Mama Tunnel
+########################################
+## BASE CAMP DIALOGS                  ##
+########################################
+Eles estão em um sono profundo.
+Parabéns!
+Ouvi dizer que você fez progresso na última incursão!
+########################################
+#### Complaints
+########################################
+Ei!
+OPA!
+Eita!
+########################################
+#### Ana basic dialogue
+########################################
+Vou dar um tempo para dar uma lida na minha leitura de verão.
+O Monty é muito brincalhão!
+Às vezes você não sente vontade de simplesmente gritar? AHHHHHH!
+########################################
+#### Margaret basic dialogue
+########################################
+Minha mãe sempre me diz para ir devagar para não perder nada.
+Que legal que a gente tem uma piscina... mas sinto falta do oceano!
+Eu devia dar uma olhada na Ana e ver como ela está!
+########################################
+#### Colin basic dialogue
+########################################
+Chamamos esse loop de tempo de Maldição de Olmec, mas a origem verdadeira é outra coisa...
+Acho que posso dizer que Olmec nos uniu!
+Talvez você queira ficar atrás. Acho que estou chegando em algo.
+########################################
+#### Roffy basic dialogue
+########################################
+Estou de boa... e você?
+(Uaaa) Desculpa, só dormi 10 horas ontem à noite...
+Legal, sim.. bacana.
+########################################
+#### Alto basic dialogue
+########################################
+O segredo do meu sucesso? Sempre me hidratar.
+A prática aperfeiçoa!
+Não importa o que aconteça, sempre durmo 10 horas por dia.
+########################################
+#### Liz basic dialogue
+########################################
+Oh, olá. Como é que vai?
+Só dando uma respirada.
+Desculpa, estou fazendo outras coisas agora...
+########################################
+#### Nekka basic dialogue
+########################################
+Um Mata-mata é um bom jeito de resolver as desavenças.
+%ls. Admiro sua coragem.
+Eu me prometo todo dia ir um pouco mais longe que o dia anterior.
+########################################
+#### LISE basic dialogue
+########################################
+Tem algo impedindo meus sensores de funcionarem corretamente.
+Toda incursão que eu faço melhora minha rede neural!
+Calculando a chance de vitória na sua próxima incursão... é de %ls%%!
+########################################
+#### Coco basic dialogue
+########################################
+Amo tudo que brilha!
+Ah, não se preocupe, a Pérola não morde... com frequência.
+Eu mimei demais a Demi quando ela era criança, mas ela cresceu normal!
+########################################
+#### Manfred basic dialogue
+########################################
+Que saudades da minha pá... pelo menos sei que ela está em boas mãos!
+O povo fala de se enterrar em um buraco como se fosse uma coisa ruim!
+A Margaret prefere o mar aberto ao invés das cavernas, mas ela não resiste a uma aventura.
+########################################
+#### Jay basic dialogue
+########################################
+Talvez um dia eles façam um videogame sobre mim!
+Não sei se vou me acostumar com essas estacas caindo...
+Quer ver minha lista de itens favoritos?
+########################################
+#### Tina basics
+########################################
+Estar aqui faz eu me sentir jovem de novo!
+Uma xícara de chá agora cairia bem.
+O Guy diz que tem medo de lutar comigo no Mata-mata!
+########################################
+#### Valerie basics
+########################################
+Estou ouvindo o último álbum do Phlogiston!
+Que tipo de música você gosta?
+(Ela parece perdida em seu mundinho.)
+########################################
+#### Au basic dialogue
+########################################
+A vida tem sentido nas coisas que fazem sentido para nós.
+Vejo que você aprendeu bastante desde que começou essa jornada.
+Boas amizades são como estrelas... nos iluminam mesmo quando distantes.
+########################################
+#### Demi basic dialogue
+########################################
+Nem sempre fui fã de aventura... mas acabei virando!
+Para ser sincera, estou ficando um pouco cansada da comida do acampamento.
+Todo mundo é tão solidário aqui! É ótimo!
+########################################
+#### Pilot basic dialogue
+########################################
+Isabell iria gostar daqui. Muitos tesouros.
+Como será que minha querida Campanella está se saindo?
+A gravidade em Zoldath é muito mais forte.
+########################################
+#### Airyn basic dialogue
+########################################
+Esses axolotes são lindinhos, não são?
+Estou acostumada a correr por aí de vestido!
+Não consigo esperar para comer mais da geleia real!
+########################################
+#### Dirk basic dialogue
+########################################
+Minha irmã é a ovelha negra da família... mas ainda me importo com ela.
+Estou tendo problemas para dormir, por isso eu me exercito.
+Um ninja deve ser capaz de se adaptar a qualquer situação.
+########################################
+#### Guy basic dialogue
+########################################
+Ufa, não sou tão ágil como era antes.
+E pensar que há mais de um Olmec no universo!
+Talvez essa seja minha última aventura... talvez não!
+########################################
+#### Spelunky (Classic) basic dialogue
+########################################
+...
+...!
+...?
+########################################
+#### Mama Tunnel basic dialogue
+########################################
+Espero que os atalhos sejam úteis, %ls!
+Droga, a borda da minha pá está começando a ficar sem fio...
+Dê uma olhada na Margaret por mim, está bom?
+########################################
+#### Ana to others
+########################################
+Pai... você parece bem cansado, mano.
+Te amo, Mãe!
+Margaret, que alegriiiia que você está aqui comigo.
+Ooh, Colin... tenho outra ideia de como melhorar minha espaçonave!
+Posso visitar você em Heliotrópolis depois disso, Airyn?
+########################################
+#### Margaret to others
+########################################
+Não acredito que estamos aqui!
+Hei, pai! Te amo!
+Você é tão tranquilo, Roffy!
+Ai nossa, a Pérola é tão linda. Posso fazer carinho nela?
+Ah, você é tão BRILHANTE!!!
+########################################
+#### Colin to others
+########################################
+Você fez um bom trabalho na espaçonave!
+Fico feliz que você e a Ana estão finalmente reunidas!
+Ana é realmente dotada para essa coisa... você deve ter orgulho ela!
+Piloto, você deve me contar mais sobre como seu OVNI funciona.
+Quem você disse que te construiu, LISE? Sua tecnologia é bem avançada!
+########################################
+#### Roffy to others
+########################################
+Você prefere Liz ou Elizabeth? Eu sempre me esqueço...
+Queria... poder ter uma barba como a sua, Colin.
+Ei, Val! Estava escutando Jane Papaya de novo. Que álbum excelente.
+Então você é uma pirata? Que... maneiro.
+########################################
+#### Alto to others
+########################################
+Ana, passei um tempão fazendo espeleologia com seus pais. Você tem seu próprio estilo... continue assim!
+Ei, Roff! Qual é o seu secreto para ficar tão tranquila? Você medita?
+Você tem coragem, Jay. Você já é uma estrela no meu coração!
+Você tem que me ensinar umas habilidades ninjas, Dirk!
+Liz! Qual grupo de músculos você está exercitando ultimamente?
+########################################
+#### Liz to others
+########################################
+Margaret, você é uma boa nadadora. Pode me dar umas lições na piscina?
+Você deu um tapa no visual, Colin. Gostei!
+Oh, você quer meu autógrafo? Eu... vou pensar.
+Oi, Alto. Você conhece um bom alongamento para pernas doloridas?
+########################################
+#### Nekka to others
+########################################
+Você já topou com um lugar como esse em alguma das suas viagens?
+Suas roupas parecem bastante... incômodas!
+Dirk... você também vem de um clã de guerreiros, certo?
+########################################
+#### LISE to others
+########################################
+Colin, você pode calibrar os meus sensores quando tiver um tempo?
+Valerie, podemos escutar música juntos? Adoraria adicionar mais álbuns ao meu banco de dados.
+Airyn, adoraria aprender mais sobre doces! Minha comida favorita é pirulito...
+########################################
+#### Coco to others
+########################################
+Como você está, querida!
+Roffy, acho que você é o modelo perfeito para minha nova linha de roupas masculinas!
+Nós poderíamos usar uma mente brilhante como a sua na Von Diamonds Incorporated!
+Princesa, adoraria desenhar uns vestidos para você depois que tudo isso acabar!
+Sua pele realmente brilha, Au! Você deveria estar na capa de uma revista!
+########################################
+#### Manfred to others
+########################################
+Ei, M! Como estão indo as suas incursões?
+Eu não deixaria você ficar com toda a diversão, velhote! Ha!
+Ei, é nota 10! Você e a Margaret são uma ótima equipe.
+Nunca achei que nosso próximo encontro de família seria na LUA! HAHA!
+########################################
+#### Au to others
+########################################
+LISE, te desejo tudo de bom na sua jornada de descoberta.
+Manfred, meu velho amigo. Tem que ter muita coragem para tentar algo novo.
+Alto, meu velho amigo. Sua exuberância anima a todos.
+########################################
+#### Jay to others
+########################################
+Eu li tudo sobre as aventuras dos seus pais!
+A Tina Flan?! Você realmente jogou uma berinjela no Rei Yama?!
+Nossa, Guy Spelunky?! Saiba que eu sou seu maior fã!
+Oh! Você parece com os jogos que meu pai jogava.
+Oi, Valerie! Conseguiu uns recordes recentemente?
+########################################
+#### Tina to others
+########################################
+Ei, doçinho! Você tem um lanche?
+Não consigo parar de me preocupar com a Ana aqui...
+Na verdade, você até que é bonitinho!
+Margaret, sua mãe me contou muito sobre suas aventuras!
+########################################
+#### Airyn to others
+########################################
+Nunca encontrei um ninja de verdade! Que emocionante!
+Val! A gente deveria fazer uma festa, o que você acha?
+########################################
+#### Dirk to others
+########################################
+Vossa Majestade! Avise-me se eu puder prestar meus serviços.
+Seu espírito guerreiro é bem inspirador. Podemos treinar juntos quando for possível?
+########################################
+#### Valerie to others
+########################################
+Ana, posso ficar com você e com a Margaret de vez em quando?
+Um dia eu gostaria de tentar fazer meu próprio jogo de videogame!
+Oh, uh... oi, Demi! Uhm, você é tão legal!
+########################################
+#### Demi to others
+########################################
+Não acredito que você trouxe a Pérola para cá, Mãe...
+Você falou com o Yang recentemente? Se ele pudesse me ver agora!
+Dirk, você é tão misterioso! Adoraria te conhecer melhor...
+Você é tão forte, Nekka! Vamos formar uma equipe quando possível?
+########################################
+#### Pilot to others
+########################################
+Você me lembra minha irmã Isabell.
+LISE, gostaria de ver os dados que você coletou sobre Zoldath.
+Nunca conheci um homem dourado antes.
+########################################
+#### Guy to others
+########################################
+Tenho muito orgulho de você, criança!
+Isso é bem estranho!
+É difícil de acreditar que estamos todos juntos, Manny.
+Oi, querido! A vida é louca, né?
+Obrigado por ajudar a Ana a chegar a salvo na Lua. Te devemos essa!
+########################################
+#### Spelunky (Classic) to others
+########################################
+!!!!!!
+########################################
+#### Mama Tunnel to others
+########################################
+Manny, você está com cara de quem queria uma pá na mão agora haha!
+Se precisar de ajuda, é só falar com a Mama, tudo bem?!
+########################################
+#### Enthusiastic personality generic dialogue
+########################################
+Como estão indo as incursões, %ls?
+Fiz umas incursões com %ls... foi bem divertido!
+Eba, acho que minha prática já está dando resultados!
+Quais itens são menosprezados? Pessoalmente, gosto de encontrar %ls.
+Odeio quando uma incursão promissora acaba por causa de %ls!
+Argh, %ls me pegou de novo! Preciso dar um tempo.
+Encontrei %ls em uma caixa, mas daí %ls me matou!
+Ugh, não acredito que fui %ls na última incursão...
+%ls morreu para %ls também. Então não fui só eu!
+Fico feliz que estamos passando tempo juntos, %ls!
+########################################
+#### Direct personality generic dialogue
+########################################
+Espero que você esteja se cuidando, %ls.
+Estava treinando na Arena. Talvez eu te veja lá em algum momento?
+Minha última incursão foi melhor.
+Quando consigo %ls, sei que vou ter uma boa incursão.
+Minha última incursão estava indo bem até que %ls me matou.
+Morri para %ls de novo. Acho que estou piorando.
+%ls, quando você vê %ls em uma loja, você compra?
+Continuo conseguindo %ls. Preciso ter mais cuidado.
+%ls está se saindo muito bem. Acho que vou pedir umas dicas.
+Que bom que você está aqui, %ls.
+########################################
+#### Generic dialogue - deaths
+########################################
+o fantasma
+um morcego
+uma cobra
+uma aranha
+um escorpião
+um esqueleto
+Abelhas
+um comerciante
+uma bomba
+uma queda longa
+Cair nas estacas
+Lava
+uma armadilha
+########################################
+#### Generic dialogue - items
+########################################
+sapatos de mola
+sapatos de pontas
+uma caixa-bomba
+uma besta
+um raio congelante
+um teletransportador
+um telepack
+um hoverpack
+um powerpack
+########################################
+#### Generic dialogue - effects
+########################################
+envenenado
+amaldiçoado
+punido por Kali
+esmagado
+preso
+########################################
+#### Tutorial Speedrun
+########################################
+Quer fazer uma corrida no tutorial? É só falar comigo de novo.
+Certo! Vou começar a contar o tempo quando você passar por mim!
+VAI!
+Ei, aonde você vai?
+Preciso dar um tempo...
+ACABOU! Seu tempo é %ls! Boa tentativa.
+ACABOU! Seu tempo é %ls! Novo recorde!
+Meu melhor tempo é 30 segundos. Você consegue superar? - Alto
+Tempo mais rápido: %ls
+########################################
+#### Online
+########################################
+Reportar
+Descreva o conteúdo inapropriado ou comportamento ofensivo.
+<SYS_ACCEPT/> Ver cartão de jogador
+Feedback
+Descreva o bug ou sugestão que você encontrou enquanto jogava Spelunky 2
+Dados que garantem a integridade e a autenticidade da partida serão públicos, entre em contato com privacy@blitworks.com para solicitações de remoção.
+Você recebeu um convite para um jogo que possui Cross-Play habilitado, tem certeza de que deseja continuar? O Cross-Play será habilitado temporariamente se você continuar.
+Ocorreu um erro de rede
+Começando em %d
+Este placar de líderes não está disponível no momento, tente novamente mais tarde.
+Unable to start the daily challenge, please try again later.
+Warning
+This lobby is Cross-Play enabled.\nPlayers from other platforms may join or already be in the lobby.\nDo you want to continue?
+Do you want to make this lobby Cross-Play enabled?\nWarning: This will allow players from other platforms to join this lobby.
+########################################
+#### Ending
+########################################
+Pontuação Final:
+Tempo Total:
+########################################
+#### Characters short name
+########################################
+Ana
+Margaret
+Colin
+Roffy
+Alto
+Liz
+Nekka
+LISE
+Coco
+Manfred
+Jay
+Tina
+Valerie
+Au
+Demi
+Pilot
+Airyn
+Dirk
+Guy
+Classic Guy
+########################################
+#### Shopkeepers' names
+########################################
+Ali
+Bob
+Cosmo
+Darwin
+Ear
+Earl
+Frank
+Garth
+Hakim
+Iggy
+Ivan
+Jimbo
+Kinni
+Lou
+Micky
+Nacho
+Omar
+Pancho
+Quincy
+Ron
+Sparky
+Tarn
+Ulf
+Vern
+Wang
+Willy
+Xander
+Yoshi
+Ziggy
+########################################
+#### Hired hands' names
+########################################
+Atlas
+Barca
+Clovis
+Dunder
+Eirik
+Fink
+Grom
+Ham
+Ivan
+Javi
+Kevin
+Lurch
+Manfred
+Nurdle
+Onyx
+Pork
+Quincy
+Raster
+Steve
+Thundar
+Ug
+Voxel
+Wolf
+Xorn
+Yor
+Zorgoth
+########################################
+#### Feats
+########################################
+Façanhas
+Escondida
+Você fez uma Façanha!
+Spelunky Completo
+Agora Você Entendeu
+Good Vibes
+Melhorando as Habilidades
+Persistente
+Viajante
+Homem de Ferro
+Velocilunky
+Pontuador Baixo
+Peregrino
+Mestre
+Despertado
+Escavador
+Porta-tocha
+Sobrevivente
+Milionário
+Já Vi Muita Coisa
+Já Vi de Tudo
+Pequeno Ajudante da Mama
+Grande Ajudante da Mama
+Estrela da Pista
+Campeão da Arena
+O Encantador de Perus
+Apoie um Negócio Local
+VIP
+Comprador nas Sombras
+Lendário
+O Favorito
+Direito Divino
+Uma Segunda Chance
+O Escolhido
+Paternidade
+Obtenha todos os outros troféus.
+Desbloqueie a entrada
+Passe de 1-4 em uma partida sem semente.
+Passe pela Toca de Olmec em uma partida sem semente.
+Alcance as Cavernas de Gelo em uma partida sem semente.
+Conclua o jogo numa partida sem semente.
+Conclua o jogo sem usar atalhos em uma partida sem semente e de único jogador.
+Conclua o jogo em 10 minutos ou menos sem usar atalhos em uma partida sem semente e de único jogador.
+Conclua o jogo sem coletar nenhum tesouro e sem usar atalhos em uma partida sem semente e de único jogador.
+Chegue à Cidade Submersa em uma partida sem semente e de único jogador.
+Conclua o jogo derrotando Hundun em uma partida sem semente e de único jogador.
+Chegue ao Oceano Cósmico em uma partida sem semente e de único jogador.
+Conclua o Desafio da Lua em uma partida sem semente.
+Conclua o Desafio da Estrela em uma partida sem semente.
+Conclua o Desafio do Sol nem uma partida sem semente.
+Termine uma partida com $1.000.000 ou mais em uma partida sem semente e de único jogador.
+Conclua 50% ou mais do Diário.
+Conclua o Diário.
+Desbloqueie o primeiro atalho.
+Desbloqueie todos os três atalhos.
+Termine o Speedrun do Tutorial em menos de 30 segundos.
+Vença um mata-mata ao melhor de cinco contra três bots usando o conjunto de regras padrão.
+Traga dois perus para Yang em uma partida sem semente.
+Compre tudo na Loja de Animais de Estimação do Yang em uma partida sem semente.
+Entre no Palácio do Prazer da Madame Tusk como convidado (em uma partida sem semente).
+Alcance o Mercado Negro em uma partida sem semente.
+Chegue até A Cidade de Ouro em uma partida sem semente e de único jogador.
+Obtenha a Kapala em uma partida sem semente.
+Obtenha um adereço real em uma partida sem semente.
+Obtenha o Ankh em uma partida sem semente.
+Obtenha a Tábula do Destino em uma partida sem semente.
+Acorde a Criança Berinjela em uma partida sem semente.
+########################################
+#### Constellations
+########################################
+Solanum
+Animus
+Canis
+Cattus
+Phodopus
+Felix
+Asinus
+Celeritas
+Major
+Fidelis
+Criminalus
+Minor
+########################################
+#### Others
+########################################
+The demo has ended.\nThanks for playing!
+Insufficient space to save data. Continue without saving?
+There was an error initializing save data. The game will continue with save games disabled.

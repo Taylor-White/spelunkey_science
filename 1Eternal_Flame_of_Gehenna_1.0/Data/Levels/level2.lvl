@@ -1,0 +1,107 @@
+\-size                                   2 2
+\-altar_room_chance                      0
+\-back_room_chance                       0
+\-back_room_hidden_door_cache_chance     0
+\-back_room_hidden_door_chance           0
+\-back_room_interconnection_chance       0
+\-background_chance                      0
+\-flagged_liquid_rooms                   0
+\-floor_bottom_spread_chance             0
+\-floor_side_spread_chance               0
+\-ground_background_chance               0
+\-idol_room_chance                       0
+\-machine_bigroom_chance                 0
+\-machine_rewardroom_chance              0
+\-machine_tallroom_chance                0
+\-machine_wideroom_chance                0
+\-max_liquid_particles                   0
+\-mount_chance                           0
+
+\?floor                            1
+\?empty                            0
+\?floor_hard                       X
+\?entrance                         !
+\?exit                             "
+\?vine                             #
+\?growable_vine                    $
+\?eggsac_top                       %
+\?eggsac_bottom                    &
+\?giant_frog                       '
+\?door2                            (
+\?mantrap                          )
+\?kingu                            *
+\?stone_floor                      +
+\?platform                         ,
+\?push_block                       -
+\?conveyorbelt_left                .
+\?falling_platform                 2
+\?bush_block                       3
+\?autowalltorch                    4
+\?thorn_vine                       5
+\?honey_upwards                    6
+\?spikes                           7
+\?snap_trap                        8
+\?bigspear_trap                    9
+\?littorch                         :
+\?ladder_plat                      ;
+\?ladder                           <
+\?spring_trap                      =
+\?arrow_trap                       >
+\?critter_butterfly                ?
+\?entrance_nocrap                  @
+\?next                             A
+\?construction_sign                B
+
+
+
+////////////////////////////////////////////////////////////////////////////////
+\.custom0_0   // jungle
+////////////////////////////////////////////////////////////////////////////////
+
+1111111111
+1111111111
+111111110-
+111111000-
+11111#333-
+11110#303-
+1110003033
+11#0003002
+
+////////////////////////////////////////////////////////////////////////////////
+\.custom0_1   // jungle
+////////////////////////////////////////////////////////////////////////////////
+
+11111111-1
+0-00003133
+0-00003003
+8-000030"3
+2-00?03223
+2-00003333
+2200000000
+0200000?00
+
+////////////////////////////////////////////////////////////////////////////////
+\.custom1_0   // jungle
+////////////////////////////////////////////////////////////////////////////////
+
+10#00033,1
+10#?000333
+0000000003
+0000000004
+0?00000000
+0000000?00
+0000000000
+..........
+
+////////////////////////////////////////////////////////////////////////////////
+\.custom1_1   // jungle
+////////////////////////////////////////////////////////////////////////////////
+
+,20?000000
+02000-0000
+32000-0000
+32-00-1000
+003333100?
+00000-10?0
+00000-B0:@
+....111111

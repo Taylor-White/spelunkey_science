@@ -1,0 +1,180 @@
+\-size                                   3 3
+\-altar_room_chance                      0
+\-back_room_chance                       0
+\-back_room_hidden_door_cache_chance     0
+\-back_room_hidden_door_chance           0
+\-back_room_interconnection_chance       0
+\-background_chance                      0
+\-flagged_liquid_rooms                   0
+\-floor_bottom_spread_chance             0
+\-floor_side_spread_chance               0
+\-ground_background_chance               0
+\-idol_room_chance                       0
+\-machine_bigroom_chance                 0
+\-machine_rewardroom_chance              0
+\-machine_tallroom_chance                0
+\-machine_wideroom_chance                0
+\-max_liquid_particles                   0
+\-mount_chance                           0
+
+\?floor                            1
+\?empty                            0
+\?floor_hard                       X
+\?entrance                         !
+\?exit                             "
+\?platform                         #
+\?push_block                       %
+\?arrow_trap                       $
+\?litwalltorch                     '
+\?autowalltorch                    (
+\?ladder                           *
+\?ladder_plat                      +
+\?forcefield                       -
+\?powder_keg                       .
+\?honey_upwards                    2
+\?honey_downwards                  3
+\?thorn_vine                       4
+\?shoes_spike                      5
+\?bush_block                       6
+\?walltorch                        7
+\?conveyorbelt_right               :
+\?spikes                           ;
+\?leprechaun                       &
+\?lightarrow                       )
+\?next                             ,
+\?conveyorbelt_left                8
+\?critter_dungbeetle               9
+\?quicksand                        <
+\?cobweb                           =
+\?totem_trap                       >
+\?forcefield_left                  ?
+\?forcefield_right                 @
+\?pipe                             A
+\?arrow_trap_right                 B
+\?rock                             C
+\?entrance_nocrap                  D
+\?torch_or_rock                    E
+\?arrow_trap_left_if_dark          F
+\?arrow_trap_left_if_light         G
+\?construction_sign                H
+\?push_or_keg                      I
+\?torch_or_pot                     J
+
+
+
+////////////////////////////////////////////////////////////////////////////////
+\.custom0_0   // cave
+////////////////////////////////////////////////////////////////////////////////
+
+0I00000000
+0%000%0000
+0%000%%%0%
+0%000%%%%%
+%%000%%%%%
+%%000%%%%%
+%%0%.66666
+6666666666
+
+////////////////////////////////////////////////////////////////////////////////
+\.custom0_1   // cave
+////////////////////////////////////////////////////////////////////////////////
+
+%0X&0%%%66
+%0X#066660
+%0G0060000
+60X0(000(0
+6%X0000000
+6%X000"000
+6%X1444441
+6%X1111111
+
+////////////////////////////////////////////////////////////////////////////////
+\.custom0_2   // cave
+////////////////////////////////////////////////////////////////////////////////
+
+6666111111
+0%06611111
+0%00661111
+0%00066111
+0%(0006111
+0%00006111
+0%00(96111
+0666666111
+
+////////////////////////////////////////////////////////////////////////////////
+\.custom1_0   // cave
+////////////////////////////////////////////////////////////////////////////////
+
+600000%700
+600000%000
+600000.000
+668+40%000
+660*@0%000
+B60*00%000
+00014#%#01
+HDJ00#%0-0
+
+////////////////////////////////////////////////////////////////////////////////
+\.custom1_1   // cave
+////////////////////////////////////////////////////////////////////////////////
+
+*6X1111111
+*6X1111111
+'7X0006660
+'7X0006660
+'7?0007..0
+00X1007119
+1'X1;;;116
+50X1111116
+
+////////////////////////////////////////////////////////////////////////////////
+\.custom1_2   // cave
+////////////////////////////////////////////////////////////////////////////////
+
+%000606111
+%000606611
+%000700611
+%000700611
+%000700611
+%000700611
+%%%%%%%611
+6666666611
+
+////////////////////////////////////////////////////////////////////////////////
+\.custom2_0   // cave
+////////////////////////////////////////////////////////////////////////////////
+
+XXXXXXXAXA
+XXXXXXXAAA
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+
+////////////////////////////////////////////////////////////////////////////////
+\.custom2_1   // cave
+////////////////////////////////////////////////////////////////////////////////
+
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+
+////////////////////////////////////////////////////////////////////////////////
+\.custom2_2   // cave
+////////////////////////////////////////////////////////////////////////////////
+
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX

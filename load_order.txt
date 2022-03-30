@@ -1,44 +1,49 @@
-World_SunkenCity
-text_replace
-stupid_hired_hand
-Christmas Pack
+Characters
+Backgrounds
 CompanionCubePushBlock_Volcano
+Critters
+Effects
+Extra Shortcuts
 Ghost_Chirpy
 Heart_Star
+Hundun
 Item_Texture_Changes
+Misc
 Montynubis
-Ronald
+Mounts
+Pets
+Sounds
 Udjat Wall Gir
+Ushabits_sonic
 amingus
 character_names
 city of wood
 coffins
 credits
+enemies
+fx
 hulk_olmec
+info_flier
+lego-yoda-shopkeeper-death-sfx-1.0.0
 moon_cave
-penguin_ufo
+mr_krabs_enemy
+old_hunter
+other_music
 quillback_w
 recolor
 sonic_lizard
+stupid_hired_hand
+text_replace
 tiamat_upgrade
 title_screen
 wat-wat
-yoshi_ice_block
-Pets
-Critters
-Characters
-basecamp
-Backgrounds
-alt_music
-other_music
-Ushabits_sonic
-Mounts
-Hundun
-mr_krabs_enemy
-Misc
-old_hunter
-Extra Shortcuts
-Effects
-enemies
-Sounds
+1Randomizer-2.6c (2)
+--1fyi.super-lunky-warrior
+--1fyi.chaos-mod-spelunky-2-edition
+--1Spelunky_Temperado (2)
+--1S++
+--1Spelunker_Puzzles
+--alt_music
+--1BOSS_RUSH_ARENA
+--1Eternal_Flame_of_Gehenna_1.0
 .git

@@ -1,0 +1,64 @@
+v0.1:
+	The Hatred of Shopkeepers: increases shoppie aggro by 5
+	Tun's Hatred: increases tun aggro by 3
+	I'm a.. little sleepy: stuns the player for 5 seconds
+	Indiana Jones: spawns a boulder above the player
+	Discount: all shops in the current level are 50% off
+	Here He Comes!: spawns apep on the far left side of the screen
+	Burn, Baby, Burn!: spawns a fireball on the player
+	Brainfreeze: freezes the player
+	No Resources: sets player's bombs and ropes to 0
+	Expensive Shops: shops are 2x as expensive on this level
+	Shopkeeper Mayhem: spawns a clone shopkeeper
+	Bombs Down: decreases bombs by 1-4
+	Ropes Down: decreases ropes by 1-4
+	Health Down: decreases health by 1-4 (but it won't kill you)
+	Bombs Up: increases bombs by 1-8
+	Ropes Up: increases ropes by 1-8
+	Health Up: increases health by 1-8
+	Broke: sets player's money to 0
+	Invisible Monsters: all monsters are invisible for 15 seconds
+	A Terrible Chill: spawns the ghost
+	Low Render Distance: zooms in for 15 seconds
+v0.2:
+	Poison Player: poisons the player
+	Curse Player: curses the player
+	Turkey Gang: spawns 2-4 turkeys
+	Rockdog Gang: spawns 2-4 rockdogs
+	Axolotl Gang: spawns 2-4 axolotls
+	All Mounts Go Wild: untames all mounts in the current level
+	Tame All Mounts: tames all mounts in the current level
+	Freelixir: spawns a (almost worthless) elixir
+	Thieves: spawns some leprechauns
+	Shopkeepers Love You: decreases shoppie aggro by 1-4
+	Tun Loves You: decreases tun aggro by 1-4
+	Rearm All Arrow Traps: resets all arrow traps
+	Teleport to Exit: teleports the player to the first exit
+	Teleport to Entrance: teleports the player to the first entrance of the level
+	Derek Loves You: spawns a jetpack and a plasma cannon
+	Random Explosion: 
+	Drop Currently Held Item: makes the player drop the item he is holding 
+	Shuffle Stats: shuffles your current stats, can be helpful or harmful!
+v0.3:
+	Random Monster Spawn: spawns a random monster
+	Random Item Spawn: spawns a random item
+	Random Teleport: teleports the player to a random spot in the current level
+	Spawn Throwable Plasma Cannon: spawn a plasma cannon that you can't shoot
+	Kill All Monsters: kill all monsters in the level
+	Wild Bullets: bullets have random velocity for 15 seconds
+	Kali Wants You Dead: blows up all of kali's altars in the current level
+	Bomb Bullets: bombs replace bullets for 15 seconds
+	Hey!: Makes your character say a random sentence. 
+	Happy Birthday!: spawn a present
+	Sprint Up: increase player's sprint factor by 0.25
+	Jump Power Up: increase player's jump power by 0.045
+	Max Speed Up: increase player's max speed by 0.005
+	Acceleration Up: increase player's acceleration by 0.008
+	Sprint Down: decrease player's sprint factor by 0.25
+	Jump Power Down: decrease player's jump power by 0.045
+	Max Speed Down: decrease player's max speed by 0.005
+	Acceleration Down: decrease player's acceleration by 0.008
+	Suicide King: spawn a random number of bomb bags/rope piles, and then kill the player
+	Exchange Money for Bombs: use a lot of money for bombs ($800 = 1 bomb)
+	Exchange Money for Ropes: use a lot of money for bombs ($800 = 1 bomb)
+	Exchange Money for Health: use a lot of money for health ($1000 = 1 heart)
