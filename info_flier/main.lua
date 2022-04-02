@@ -1,7 +1,7 @@
-meta.name = "Nut Chart"
-meta.version = "Nut Chart"
-meta.description = "Nut Chart"
-meta.author = "Nut Chart"
+meta.name = "The_Marble"
+meta.version = "The_Marble"
+meta.description = "The_Marble"
+meta.author = "The_Marble"
 what_how, w, h = create_image('nut.png')
 sanctuary = create_sound('nut_music.mp3')
 funny_bop = sanctuary:play(false, SOUND_TYPE.SFX)
