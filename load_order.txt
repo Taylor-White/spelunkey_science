@@ -7,7 +7,6 @@ sonic_lizard
 recolor
 quillback_w
 old_hunter
-lego-yoda-shopkeeper-death-sfx-1.0.0
 info_flier
 hulk_olmec
 enemies
@@ -29,12 +28,13 @@ Effects
 Critters
 Characters
 Backgrounds
-1Randomizer-2.6c (2)
 --1Spelunker_Puzzles
 --1S++
 --other_music
 --1Spelunky_Temperado (2)
+--1Randomizer-2.6c (2)
 --1fyi.chaos-mod-spelunky-2-edition
 --1fyi.super-lunky-warrior
 --1Eternal_Flame_of_Gehenna_1.0
 --1BOSS_RUSH_ARENA
+.git
