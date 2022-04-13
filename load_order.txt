@@ -1,0 +1,44 @@
+wat-wat
+title_screen
+tiamat_upgrade
+text_replace
+stupid_hired_hand
+sonic_lizard
+recolor
+quillback_w
+old_hunter
+info_flier
+hulk_olmec
+credits
+coffins
+character_names
+alt_music
+Ushabits_sonic
+Udjat Wall Gir
+Sounds
+Pets
+Mounts
+Item_Texture_Changes
+Hundun
+Heart_Star
+Ghost_Chirpy
+Extra Shortcuts
+Effects
+Critters
+Characters
+Backgrounds
+enemies
+--1Cinematic
+--1fyi.super-lunky-warrior
+--1Eternal_Flame_of_Gehenna_1.0
+--1Spelunker_Puzzles
+--1PO1T 0.3.1d
+--1Randomizer-2.6c (2)
+--1Spelunky_Temperado (2)
+--1fyi.chaos-mod-spelunky-2-edition
+--1Lunky-World-1.0
+--1Shopkeeper_Slaughter_v1.0
+--1S++
+--1BOSS_RUSH_ARENA
+--other_music
+.git

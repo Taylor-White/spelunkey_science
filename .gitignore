@@ -1,2 +1,2 @@
-./.db/*
-./.load_order.txt
+./.db/
+./load_order.txt

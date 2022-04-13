@@ -1,0 +1,112 @@
+\-altar_room_chance                      0
+\-back_room_chance                       0
+\-back_room_hidden_door_cache_chance     0
+\-back_room_hidden_door_chance           0
+\-back_room_interconnection_chance       0
+\-background_chance                      0
+\-flagged_liquid_rooms                   0
+\-floor_bottom_spread_chance             0
+\-floor_side_spread_chance               0
+\-ground_background_chance               0
+\-idol_room_chance                       0
+\-machine_bigroom_chance                 0
+\-machine_rewardroom_chance              0
+\-machine_tallroom_chance                0
+\-machine_wideroom_chance                0
+\-max_liquid_particles                   0
+\-mount_chance                           0
+\-size                                   3 2
+
+\?floor                            1
+\?empty                            0
+\?floor_hard                       X
+\?platform                         !
+\?entrance                         "
+\?exit                             $
+\?shoppie_generator                &
+\?push_block                       '
+\?ladder                           (
+\?ladder_plat                      )
+\?bone_block                       +
+\?minewood_floor                   #
+\?totem_trap                       %
+
+
+
+////////////////////////////////////////////////////////////////////////////////
+\.setroom0_0   // cave
+////////////////////////////////////////////////////////////////////////////////
+
+XXXXXXXXXX
+XXXXXXXXXX
+XX11111111
+XX00000000
+XX00000000
+XX00000000
+XX00000000
+XX!00!)!!!
+
+////////////////////////////////////////////////////////////////////////////////
+\.setroom0_1   // cave
+////////////////////////////////////////////////////////////////////////////////
+
+XXXXXXXXXX
+XXXXXXXXXX
+1111111111
+1&100001&1
+0000000000
+00000'0000
+0000##0000
+110011!!)1
+
+////////////////////////////////////////////////////////////////////////////////
+\.setroom0_2   // cave
+////////////////////////////////////////////////////////////////////////////////
+
+XXXXXXXXXX
+XXXXXXXXXX
+11111111XX
+00000000XX
+00000000XX
+00000000XX
+00000'00XX
+!!!)!!!!XX
+
+////////////////////////////////////////////////////////////////////////////////
+\.setroom1_0   // cave
+////////////////////////////////////////////////////////////////////////////////
+
+XX!000(0!!
+XX0000(000
+XX0001(000
+XX0"01(00'
+XX########
+XX11111111
+XXXXXXXXXX
+XXXXXXXXXX
+
+////////////////////////////////////////////////////////////////////////////////
+\.setroom1_1   // cave
+////////////////////////////////////////////////////////////////////////////////
+
+00!11110(0
+000&11&0(0
+0000000000
+0000000000
+#000000000
+1111111111
+XXXXXXXXXX
+XXXXXXXXXX
+
+////////////////////////////////////////////////////////////////////////////////
+\.setroom1_2   // cave
+////////////////////////////////////////////////////////////////////////////////
+
+!!0(000!XX
+000(0!!!XX
+000(0000XX
+000(00%0XX
+000#####XX
+11111111XX
+XXXXXXXXXX
+XXXXXXXXXX

@@ -1,0 +1,97 @@
+
+\?minewood_floor_hanging_hide      h
+\?floor_hard                       X
+\?door_drop_held                   W
+\?chain_ceiling                    H
+\?spring_trap                      ^
+\?conveyorbelt_left                <
+\?conveyorbelt_right               >
+\?lamp_hang                        l
+\?litwalltorch                     O
+\?dresser                          d
+\?bunkbed                          u
+\?singlebed                        b
+\?diningtable                      i
+\?sidetable                        S
+\?chair_looking_left               5
+\?chair_looking_right              6
+\?dog_sign                         7
+\?telescope                        9
+\?pot                              o
+\?rock                             r
+\?empty                            0
+\?floor                            1
+\?surface_floor                    2
+\?surface_hidden_floor             3
+\?minewood_floor                   =
+\?ladder                           L
+\?ladder_plat                      P
+\?platform                         p
+\?starting_exit                    s
+\?door2                            D
+\?push_block                       4
+\?treasure_chest                   t
+\?crate_bombs                      B
+\?crate_ropes                      R
+\?water                            w
+\?shortcut_station_banner          8
+
+
+
+////////////////////////////////////////////////////////////////////////////////
+\.setroom3-1
+////////////////////////////////////////////////////////////////////////////////
+
+// room
+2222222222
+2222222222
+2222220000
+2220000000
+2200000000
+2000000000
+2000000000
+2000000000
+
+////////////////////////////////////////////////////////////////////////////////
+\.setroom3-2
+////////////////////////////////////////////////////////////////////////////////
+
+// room
+2222222222
+2222222222
+2222222222
+2222222222
+2222222222
+2222222222
+2222222222
+2222222222
+
+////////////////////////////////////////////////////////////////////////////////
+\.setroom4-1   // SHORTCUT STATION
+////////////////////////////////////////////////////////////////////////////////
+
+// room
+\!dual
+2222222222 XXXXXXXXXX
+2222222222 XXXXXXXXXX
+2222222222 XXXXXXXXXX
+2222222222 XXXXXXXXXX
+2222222222 XXXXXXXXXX
+2222222222 XXXXXXXXXX
+2222222222 XXXXXXXXXX
+2222222222 XXXXXXXXXX
+
+////////////////////////////////////////////////////////////////////////////////
+\.setroom4-2
+////////////////////////////////////////////////////////////////////////////////
+
+// room
+\!dual
+2222222222 XXXXXXXXXX
+2222222220 XXXXXXXXXX
+2222222200 XXXXXXXXXX
+2222222200 XXXXXXXXXX
+2222222200 XXXXXXXXXX
+2222222200 XXXXXXXl00
+222222220W XXXXXXX0LD
+2222222222 XXXXXXX0P=

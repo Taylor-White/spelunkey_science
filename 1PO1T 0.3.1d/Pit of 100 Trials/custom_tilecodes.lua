@@ -1,0 +1,15 @@
+--just custom tilecodes,, once this is run these should run .
+define_tile_code("beg_shopkeeper")
+set_pre_tile_code_callback(function(x, y, layer)
+    beg_shopkeeper_uid = spawn_on_floor(ENT_TYPE.MONS_HUNDUNS_SERVANT, x, y, layer, 0, 0)
+    create_beg_shop()
+end, "beg_shopkeeper")
+nonreplaceable_tiles = {}
+define_tile_code("nonreplaceable_empty")
+set_pre_tile_code_callback(function(x, y, layer)
+end, "nonreplaceable_empty")
+define_tile_code("generic_bordertile")
+set_pre_tile_code_callback(function(x, y, layer)
+    local new_floor = get_entity(spawn_on_floor(ENT_TYPE.FLOOR_GENERIC, x, y, layer, 0, 0))
+    new_floor.flags = set_flag(new_floor.flags, 6)
+end, "generic_bordertile")
