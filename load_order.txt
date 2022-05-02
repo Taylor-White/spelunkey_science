@@ -1,0 +1,43 @@
+title_screen
+tiamat_upgrade
+text_replace
+recolor
+quillback_w
+old_hunter
+info_flier
+hulk_olmec
+credits
+coffins
+character_names
+Ushabits_sonic
+Udjat Wall Gir
+Sounds
+Pets
+Mounts
+Item_Texture_Changes
+Hundun
+Heart_Star
+Ghost_Chirpy
+Extra Shortcuts
+Effects
+Critters
+Backgrounds
+other_music
+enemies
+Characters
+waddlette
+weird_char
+Elite_Trio
+People
+--always_eggplant
+--1Shopkeeper_Slaughter_v1.0
+--1_Spelunker_Puzzles
+--1_Alternate_levels
+--wat-wat
+--1Randomizer-2.6c (2)
+--1Eternal_Flame_of_Gehenna_1.0
+--1_SomeOKPuzzelThing
+--1Lunky-World-1.0
+--1BOSS_RUSH_ARENA
+--alt_music
+--1PO1T 0.3.1d
