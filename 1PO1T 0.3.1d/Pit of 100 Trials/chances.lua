@@ -1,9 +1,0 @@
-PO1T_DROPCHANCE = {
-    ARMORED = 25;
-    SHADOW = 4;
-    INFESTED = 10;
-}
-PO1T_LEVELCHANCE = {
-    CAVEMAN = 12;
-    SHADOW = 12;
-}
