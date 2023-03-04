@@ -80,8 +80,8 @@
 ########################################
 ## MAIN OPTIONS                       ##
 ########################################
-0x49054a7e: Play
-0xa1023681: Online
+0x49054a7e: Play Jeblunky
+0xa1023681: They call it Online
 0xfe203cc2: Options
 0x34906f28: Leaderboards
 0x8ca20866: Player Profile
@@ -1720,20 +1720,20 @@
 #### Kali
 ########################################
 0x7464b785: Knuckles accepts your sacrifice!
-0x2c02c811: You feel invigorated!
-0x16549024: She bestows a gift upon you!
-0x9e79abf9: She seems ecstatic with you.
-0xa64fc385: She seems happy with you.
-0xb2c2c1b6: She has forgiven you.
-0x555a5250: She seems pleased with you.
-0x3e103a65: She seems angry with you.
-0xaa6e4ece: She seems very angry with you.
+0x2c02c811: Knuckles feels invigorated!
+0x16549024: Knuckles bestows a gift upon you!
+0x9e79abf9: Knuckles seems ecstatic with you.
+0xa64fc385: Knuckles seems happy with you.
+0xb2c2c1b6: Knuckles has forgiven you.
+0x555a5250: Knuckles seems pleased with you.
+0x3e103a65: Knuckles seems angry with you.
+0xaa6e4ece: Knuckles seems very angry with you.
 0x4d4b92d7: You have angered Knuckles!
-0x36f02181: Yet she still seems ecstatic with you.
-0x3460dc3a: Yet she still seems happy with you.
-0xbb0f7ffd: Yet she still seems pleased with you.
+0x36f02181: Yet Knuckles still seems ecstatic with you.
+0x3460dc3a: Yet Knuckles still seems happy with you.
+0xbb0f7ffd: Yet Knuckles still seems pleased with you.
 0x8e55cd84: Knuckles admires your warrior spirit.
-0x0646463c: She fashions a weapon for you!
+0x0646463c: Knuckles fashions a weapon for you!
 0x1d19860c: So you desire a companion? Here you go!
 0x6c33f75e: Knuckles enjoys a good mystery!
 ########################################
@@ -1765,7 +1765,7 @@
 ########################################
 #welcome to %ls's %ls!
 0x509135d3: %ls 
-0x06995fc2: Welcome, Your Highness! Do you see anything of interest?
+0x06995fc2: Look, fat!
 # The following line is meant to be slightly mocking:
 0x0fe1df12: Oh, hello, Your Majesty! See anything you like, heh heh?
 0xa62da384: I don't know if I can trust Sonic anymore...
@@ -1831,7 +1831,7 @@
 0x1f58ab93: I thought you died back in Zanzibar!
 0xa40307a1: Wow, thanks! Please help yourself to my treasure.
 0xe6208bee: I will avenge my feathered friends!
-0x8197b16b: Stop, thief!
+0x8197b16b: Wait! You need to buy a Guac-a-bowl!
 0xb87715cb: You villain!
 0x4c3b0656: Welcome to the Knuckles emporium of ropes and animals!
 0x58ef4a4b: I'm so happy right now!

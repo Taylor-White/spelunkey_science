@@ -1340,7 +1340,6 @@ set_pre_entity_spawn(function(type, x, y, l, overlay)
 end, SPAWN_TYPE.SYSTEMIC, MASK.ITEM, shop_guns)
 
 --[[CONTAINERS]]
-
 local pot_items = {ENT_TYPE.MONS_SNAKE, ENT_TYPE.MONS_SPIDER, ENT_TYPE.MONS_HANGSPIDER, ENT_TYPE.MONS_GIANTSPIDER,
          ENT_TYPE.MONS_BAT, ENT_TYPE.MONS_CAVEMAN, ENT_TYPE.MONS_SKELETON, ENT_TYPE.MONS_REDSKELETON,
          ENT_TYPE.MONS_SCORPION, ENT_TYPE.MONS_HORNEDLIZARD, ENT_TYPE.MONS_MOLE, ENT_TYPE.MONS_MANTRAP,
@@ -2268,9 +2267,9 @@ set_callback(function()
             local ent = get_entity(players[1].holding_uid)
             if ent and animals[ent.type.id] ~= nil and #yang > 0 then
                 local name = get_animal_name(players[1].holding_uid)
-                local gender = "Sir"
+                local gender = "Bitch"
                 if players[1]:is_female() then
-                    gender = "Ma'am"
+                    gender = "Slut"
                 end
                 local msg = string.format("%s, I'm looking for turkeys. Thats %s.", gender, name)
                 if name then
